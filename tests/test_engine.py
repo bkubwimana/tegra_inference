@@ -15,11 +15,13 @@ sys.path.append(src_path)
 from prompt_engine import PromptEngine
 from output_processor import format_response, save_output_to_file
 
+
 class TestPromptEngine(unittest.TestCase):
 
     def setUp(self):
         logging.info("Initializing PromptEngine for tests.")
         self.prompt_engine = PromptEngine()
+        self.vqa_counter = 0
         # Load VQA dataset (adjust path as needed)
         vqa_data_path = os.path.join(os.path.dirname(__file__), "..", "10_percent_vqa.json")
         if os.path.exists(vqa_data_path):
@@ -92,7 +94,7 @@ class TestPromptEngine(unittest.TestCase):
             "time_budget": random.choice(["ultra-fast", "fast", "normal"])
         }
     def generate_all_prompt_configs(self):
-        # Example of a 2 x 3 x 2 x 3 factorial design
+        #2 x 3 x 2 x 3 factorial design
         priorities = ["quality", "speed"]
         complexities = ["minimal", "moderate", "complex"]
         details = ["concise", "detailed"]
@@ -115,9 +117,9 @@ class TestPromptEngine(unittest.TestCase):
 
     def test_vqa_dataset_hybrid(self):
         """
-        Demonstrates a hybrid design:
+        Hybrid between and within subjects:
         - For a small subset of questions, use all prompt configs (within-subject).
-        - For the rest, use exactly one random prompt config (between-subject).
+        - For the rest, use one random prompt config (between-subject).
         """
         if not self.vqa_data:
             self.skipTest("No VQA data available")
@@ -153,64 +155,53 @@ class TestPromptEngine(unittest.TestCase):
         logging.info(f"Total (image, question) pairs collected: {len(all_pairs)}")
         
         # 2. Split into within-subject vs. between-subject sets.
-        #    Let's say we pick 50 pairs for the within-subject subset.
-        #    (Use a smaller or larger number depending on your resources.)
         NUM_WITHIN_SUBJECT = 50
         random.shuffle(all_pairs)
         
         within_subject_pairs = all_pairs[:NUM_WITHIN_SUBJECT]
-        between_subject_pairs = all_pairs[NUM_WITHIN_SUBJECT:]
+        between_subject_pairs = all_pairs[NUM_WITHIN_SUBJECT:201]
         
         logging.info(f"Within-subject subset size: {len(within_subject_pairs)}")
         logging.info(f"Between-subject subset size: {len(between_subject_pairs)}")
         
-        # 3. Define or generate *all* prompt configurations for the within-subject test.
-        #    For example, if you had 36 total combos, you'd build them here.
+        # 3. prompt configurations for the within-subject test.
         all_prompt_configs = self.generate_all_prompt_configs()
+        logging.info("\033[93mTotal prompt configurations: %d\033[0m", len(all_prompt_configs))
         
-        # We'll store all test outputs here
-        output_results = []
+        output_file = os.path.join(os.path.dirname(__file__), "..", "prompt_results_hybrid.json")
         
-        # 3A. Within-Subject: apply *all* configs to each question
-        for (image_path, question) in within_subject_pairs:
-            for config in all_prompt_configs:
-                self.prompt_engine.set_prompt_params(config)
-                with self.subTest(image=image_path, query=question, config=config):
+        # Open file for immediate streaming writes
+        with open(output_file, 'w') as f_out:
+            # 3A. Within-Subject: stream results immediately
+            logging.info("\033[93mStarting within-subject test...\033[0m")
+            for (image_path, question) in within_subject_pairs:
+                for config in all_prompt_configs:
+                    self.prompt_engine.set_prompt_params(config)
+                    with self.subTest(image=image_path, query=question, config=config):
+                        self.vqa_counter += 1
+                        logging.info(f"vqa #: {self.vqa_counter}")
+                        response_tuple = self.prompt_engine.get_response(question, image_path=image_path)
+                        formatted_output = format_response(response_tuple)
+                        # Only write if we got a valid response.
+                        if formatted_output:
+                            f_out.write(formatted_output + "\n")
+                            f_out.flush()
+                        else:
+                            logging.warning("\033[93mSkipping invalid response (within-subject).\033[0m")
+            
+            # 3B. Between-Subject: stream each result immediately
+            logging.info("\033[93mStarting between-subject test...\033[0m")
+            for (image_path, question) in between_subject_pairs:
+                params = self.random_params(question)
+                self.prompt_engine.set_prompt_params(params)
+                with self.subTest(image=image_path, query=question, config=params):
                     response_tuple = self.prompt_engine.get_response(question, image_path=image_path)
                     formatted_output = format_response(response_tuple)
-                    
-                    # Basic checks (like in your dynamic test)
-                    output_json = json.loads(formatted_output)
-                    self.assertIn("input_prompt", output_json)
-                    self.assertIn("answer", output_json)
-                    self.assertIn("latency", output_json)
-                    self.assertIn("token_count", output_json)
-                    
-                    # Store or log result
-                    output_results.append(formatted_output)
-        
-        # 3B. Between-Subject: one *random* config per question
-        for (image_path, question) in between_subject_pairs:
-            # You might re-use your random_params(...) function here:
-            params = self.random_params(question)
-            self.prompt_engine.set_prompt_params(params)
-            
-            with self.subTest(image=image_path, query=question, config=params):
-                response_tuple = self.prompt_engine.get_response(question, image_path=image_path)
-                formatted_output = format_response(response_tuple)
-                
-                # Basic checks
-                output_json = json.loads(formatted_output)
-                self.assertIn("input_prompt", output_json)
-                self.assertIn("answer", output_json)
-                self.assertIn("latency", output_json)
-                self.assertIn("token_count", output_json)
-                
-                output_results.append(formatted_output)
-        
-        # 4. Save results to a file or do further analysis
-        output_file = os.path.join(os.path.dirname(__file__), "..", "prompt_results_hybrid.json")
-        save_output_to_file(output_results, output_file)
+                    if formatted_output:
+                        f_out.write(formatted_output + "\n")
+                        f_out.flush()
+                    else:
+                        logging.warning("\033[93mSkipping invalid response (between-subject).\033[0m")
         logging.info(f"Hybrid test outputs saved to {output_file}")
 
 

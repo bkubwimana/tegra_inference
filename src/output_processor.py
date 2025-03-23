@@ -27,8 +27,7 @@ def format_response(response_tuple: tuple) -> str:
     # Use regular expressions to extract dynamic elements from the formatted prompt
     user_query = re.search(r"USER_QUERY: (.*)", formatted_prompt).group(1)
     priority = re.search(r"PRIORITY: (.*)", formatted_prompt).group(1)
-    min_tokens = re.search(r"OUTPUT_RANGE: between (\d+) and \d+ tokens", formatted_prompt).group(1)
-    max_tokens = re.search(r"OUTPUT_RANGE: between \d+ and (\d+) tokens", formatted_prompt).group(1)
+    max_tokens = re.search(r"OUTPUT_RANGE: up to (\d+) tokens", formatted_prompt).group(1)
     task_complexity = re.search(r"TASK_COMPLEXITY: (.*)", formatted_prompt).group(1)
     response_detail = re.search(r"RESPONSE_DETAIL: (.*)", formatted_prompt).group(1)
     time_budget = re.search(r"TIME_BUDGET: (.*)", formatted_prompt).group(1)
@@ -37,7 +36,6 @@ def format_response(response_tuple: tuple) -> str:
         "input_prompt": {
             "user_query": user_query,
             "priority": priority,
-            "min_tokens": min_tokens,
             "max_tokens": max_tokens,
             "task_complexity": task_complexity,
             "response_detail": response_detail,

@@ -16,12 +16,12 @@ Your output must strictly follow this format without any extra tokens or comment
 
 Required Format:
 BEGIN_RESPONSE
-[Your Answer: between {min_tokens} and {max_tokens} tokens]
+[Your Answer: up to {max_tokens} tokens]
 END_RESPONSE
 
 INPUT:
 USER_QUERY: {user_query}
-OUTPUT_RANGE: between {min_tokens} and {max_tokens} tokens
+OUTPUT_RANGE: up to {max_tokens} tokens
 PRIORITY: {priority}
 TASK_COMPLEXITY: {task_complexity}
 RESPONSE_DETAIL: {response_detail}
@@ -31,7 +31,6 @@ TIME_BUDGET: {time_budget}
 class PromptEngine:
     def __init__(self):
         self.params = {
-            "min_tokens": 20,
             "max_tokens": 50,
             "user_query": "Analyze the scene for object detection.",
             "priority": "quality",
@@ -63,7 +62,7 @@ class PromptEngine:
         """
         local_params = self.params.copy()
         local_params["user_query"] = query
-        print(f"\033[91mUsing prompt parameters: {local_params}\033[0m")
+        # print(f"\033[91mUsing prompt parameters: {local_params}\033[0m")
 
         formatted_prompt = self.base_prompt_template.format(**local_params)
 
