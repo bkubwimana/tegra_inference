@@ -33,7 +33,8 @@ class TestPromptEngine(unittest.TestCase):
     def test_dynamic_variations(self):
         variations = [
             {
-                "max_tokens": 70,
+                "min_tokens": 20,
+                "max_tokens": 50,
                 "user_query": "Analyze the scene for object detection.",
                 "priority": "quality",
                 "task_complexity": "minimal",
@@ -41,7 +42,8 @@ class TestPromptEngine(unittest.TestCase):
                 "time_budget": "ultra-fast"
             },
             {
-                "max_tokens": 70,
+                "min_tokens": 30,
+                "max_tokens": 60,
                 "user_query": "What is in the background?",
                 "priority": "speed",
                 "task_complexity": "moderate",
@@ -84,135 +86,59 @@ class TestPromptEngine(unittest.TestCase):
                 # self.assertLessEqual(token_count, params["max_tokens"])
     def random_params(self, query):
         return {
-            "max_tokens": 70,
+            "min_tokens": random.randint(20, 30),
+            "max_tokens": random.randint(40, 60),
             "user_query": query,
             "priority": random.choice(["quality", "speed"]),
             "task_complexity": random.choice(["minimal", "moderate", "complex"]),
             "response_detail": random.choice(["concise", "detailed"]),
             "time_budget": random.choice(["ultra-fast", "fast", "normal"])
         }
-    def generate_all_prompt_configs(self):
-        # Example of a 2 x 3 x 2 x 3 factorial design
-        priorities = ["quality", "speed"]
-        complexities = ["minimal", "moderate", "complex"]
-        details = ["concise", "detailed"]
-        budgets = ["ultra-fast", "fast", "normal"]
-        
-        all_configs = []
-        for priority in priorities:
-            for complexity in complexities:
-                for detail in details:
-                    for budget in budgets:
-                        all_configs.append({
-                            "max_tokens": 70,   
-                            "user_query": "",   
-                            "priority": priority,
-                            "task_complexity": complexity,
-                            "response_detail": detail,
-                            "time_budget": budget
-                        })
-        return all_configs
-
-    def test_vqa_dataset_hybrid(self):
-        """
-        Demonstrates a hybrid design:
-        - For a small subset of questions, use all prompt configs (within-subject).
-        - For the rest, use exactly one random prompt config (between-subject).
-        """
+    def test_vqa_dataset(self):
         if not self.vqa_data:
             self.skipTest("No VQA data available")
-        
-        # 1. Collect all (image, question) pairs.
-        all_pairs = []
+        output_results = []
         current_image = None
         queries = []
-        
         for item in self.vqa_data:
             if item == "reset":
-                # End of block: store the (image, question) pairs
                 if current_image and queries:
-                    for q in queries:
-                        all_pairs.append((current_image, q))
-                # Reset for next block
+                    for query in queries:
+                        params = self.random_params(query)
+                        self.prompt_engine.set_prompt_params(params)
+                        with self.subTest(image=current_image, query=query):
+                            # logging.info(f"Processing query '{query}' for image '{current_image}'")
+                            response_tuple = self.prompt_engine.get_response(query, image_path=current_image)
+                            formatted_output = format_response(response_tuple)
+                            # logging.info(f"Response: {formatted_output}")
+                            
+                            # Parse the JSON string to a dict
+                            output_json = json.loads(formatted_output)
+                            
+                            # Assert structured keys are present
+                            self.assertIn("input_prompt", output_json)
+                            self.assertIn("answer", output_json)
+                            self.assertIn("latency", output_json)
+                            self.assertIn("token_count", output_json)
+                            
+                            # Check that answer contains delimiters
+                            answer = output_json["answer"]
+                            self.assertIn("BEGIN_RESPONSE", answer)
+                            self.assertIn("END_RESPONSE", answer)
+                            
+                            output_results.append(formatted_output)
                 current_image = None
                 queries = []
             else:
-                # Check if item is path-like => treat as an image
-                if item.startswith("/") or "\\" in item or (":" in item):
+                # Heuristic: determine whether the item is an image path
+                if item.startswith("/") or item.startswith("\\") or (":" in item):
                     if os.path.exists(item):
                         current_image = item
                 else:
-                    # Otherwise it's a question
                     queries.append(item)
-        
-        # Edge case: if the last block never hit "reset"
-        if current_image and queries:
-            for q in queries:
-                all_pairs.append((current_image, q))
-        
-        logging.info(f"Total (image, question) pairs collected: {len(all_pairs)}")
-        
-        # 2. Split into within-subject vs. between-subject sets.
-        #    Let's say we pick 50 pairs for the within-subject subset.
-        #    (Use a smaller or larger number depending on your resources.)
-        NUM_WITHIN_SUBJECT = 50
-        random.shuffle(all_pairs)
-        
-        within_subject_pairs = all_pairs[:NUM_WITHIN_SUBJECT]
-        between_subject_pairs = all_pairs[NUM_WITHIN_SUBJECT:]
-        
-        logging.info(f"Within-subject subset size: {len(within_subject_pairs)}")
-        logging.info(f"Between-subject subset size: {len(between_subject_pairs)}")
-        
-        # 3. Define or generate *all* prompt configurations for the within-subject test.
-        #    For example, if you had 36 total combos, you'd build them here.
-        all_prompt_configs = self.generate_all_prompt_configs()
-        
-        # We'll store all test outputs here
-        output_results = []
-        
-        # 3A. Within-Subject: apply *all* configs to each question
-        for (image_path, question) in within_subject_pairs:
-            for config in all_prompt_configs:
-                self.prompt_engine.set_prompt_params(config)
-                with self.subTest(image=image_path, query=question, config=config):
-                    response_tuple = self.prompt_engine.get_response(question, image_path=image_path)
-                    formatted_output = format_response(response_tuple)
-                    
-                    # Basic checks (like in your dynamic test)
-                    output_json = json.loads(formatted_output)
-                    self.assertIn("input_prompt", output_json)
-                    self.assertIn("answer", output_json)
-                    self.assertIn("latency", output_json)
-                    self.assertIn("token_count", output_json)
-                    
-                    # Store or log result
-                    output_results.append(formatted_output)
-        
-        # 3B. Between-Subject: one *random* config per question
-        for (image_path, question) in between_subject_pairs:
-            # You might re-use your random_params(...) function here:
-            params = self.random_params(question)
-            self.prompt_engine.set_prompt_params(params)
-            
-            with self.subTest(image=image_path, query=question, config=params):
-                response_tuple = self.prompt_engine.get_response(question, image_path=image_path)
-                formatted_output = format_response(response_tuple)
-                
-                # Basic checks
-                output_json = json.loads(formatted_output)
-                self.assertIn("input_prompt", output_json)
-                self.assertIn("answer", output_json)
-                self.assertIn("latency", output_json)
-                self.assertIn("token_count", output_json)
-                
-                output_results.append(formatted_output)
-        
-        # 4. Save results to a file or do further analysis
-        output_file = os.path.join(os.path.dirname(__file__), "..", "prompt_results_hybrid.json")
+        output_file = os.path.join(os.path.dirname(__file__), "..", "prompt_results.txt")
         save_output_to_file(output_results, output_file)
-        logging.info(f"Hybrid test outputs saved to {output_file}")
-
+        logging.info(f"VQA test outputs saved to {output_file}")
 
 if __name__ == '__main__':
     unittest.main()
