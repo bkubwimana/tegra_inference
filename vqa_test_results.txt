@@ -1,0 +1,4430 @@
+Q: Is the ball flying towards the batter?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.321 seconds
+GENERATION_LATENCY: 2.319 seconds
+DECODE_LATENCY: 0.002 seconds
+Q: What sport is this?
+BEGIN_RESPONSE
+[This is a baseball game.]
+END_RESPONSE
+TOTAL_LATENCY: 2.342 seconds
+GENERATION_LATENCY: 2.341 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Can you see the ball?
+BEGIN_RESPONSE
+[Yes, I can see the ball. It is in the air, heading towards the batter.]
+END_RESPONSE
+TOTAL_LATENCY: 3.865 seconds
+GENERATION_LATENCY: 3.864 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the pitcher wearing a hat?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.868 seconds
+GENERATION_LATENCY: 1.868 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Will he catch the ball in time?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.259 seconds
+GENERATION_LATENCY: 2.258 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What credit card company is on the banner in the background?
+BEGIN_RESPONSE
+[Your Answer: Mastercard]
+END_RESPONSE
+TOTAL_LATENCY: 2.399 seconds
+GENERATION_LATENCY: 2.398 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the fence made of?
+BEGIN_RESPONSE
+[The fence is made of metal]
+END_RESPONSE
+TOTAL_LATENCY: 2.515 seconds
+GENERATION_LATENCY: 2.514 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the truck?
+BEGIN_RESPONSE
+[The truck is white.]
+END_RESPONSE
+TOTAL_LATENCY: 2.266 seconds
+GENERATION_LATENCY: 2.265 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What service does the car parked at the curb provide?
+BEGIN_RESPONSE
+[The car parked at the curb is a taxi, providing transportation services.]
+END_RESPONSE
+TOTAL_LATENCY: 3.290 seconds
+GENERATION_LATENCY: 3.290 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What function is served by the item the giraffe is peering into?
+BEGIN_RESPONSE
+[Your Answer: The giraffe is feeding on the hay or food item in the container.]
+END_RESPONSE
+TOTAL_LATENCY: 3.790 seconds
+GENERATION_LATENCY: 3.789 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this in Australia?
+BEGIN_RESPONSE
+[Yes, this is in Australia. Sydney's skyline is visible in the background.]
+END_RESPONSE
+TOTAL_LATENCY: 3.624 seconds
+GENERATION_LATENCY: 3.622 seconds
+DECODE_LATENCY: 0.002 seconds
+Q: Are the giraffes playing basketball?
+BEGIN_RESPONSE
+[Your Answer: No, the giraffes are not playing basketball.]
+END_RESPONSE
+TOTAL_LATENCY: 3.275 seconds
+GENERATION_LATENCY: 3.274 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are the trees taller than the giraffes?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.230 seconds
+GENERATION_LATENCY: 2.229 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there any fence in front of zebra?
+BEGIN_RESPONSE
+[Yes, there is a fence in front of the zebra]
+END_RESPONSE
+TOTAL_LATENCY: 3.166 seconds
+GENERATION_LATENCY: 3.165 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is it raining?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.236 seconds
+GENERATION_LATENCY: 2.235 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the landing gear down?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.886 seconds
+GENERATION_LATENCY: 1.886 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this airplane taking off or landing?
+BEGIN_RESPONSE
+[Your Answer: landing]
+END_RESPONSE
+TOTAL_LATENCY: 2.241 seconds
+GENERATION_LATENCY: 2.241 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is she sitting on?
+BEGIN_RESPONSE
+[She is sitting on a set of stone steps.]
+END_RESPONSE
+TOTAL_LATENCY: 2.829 seconds
+GENERATION_LATENCY: 2.828 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is that a smartphone she is holding?
+BEGIN_RESPONSE
+[Yes, it appears to be a smartphone she is holding.]
+END_RESPONSE
+TOTAL_LATENCY: 3.069 seconds
+GENERATION_LATENCY: 3.069 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What type of garment or accessory is being worn by both people?
+BEGIN_RESPONSE
+[Both people are wearing casual clothing.]
+END_RESPONSE
+TOTAL_LATENCY: 2.490 seconds
+GENERATION_LATENCY: 2.490 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the woman doing?
+BEGIN_RESPONSE
+[The woman is sitting on a set of stairs, holding a phone to her ear, and appears to be engaged in a conversation.]
+END_RESPONSE
+TOTAL_LATENCY: 4.784 seconds
+GENERATION_LATENCY: 4.783 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is her hair?
+BEGIN_RESPONSE
+[Her hair color is brown.]
+END_RESPONSE
+TOTAL_LATENCY: 2.389 seconds
+GENERATION_LATENCY: 2.388 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is on the woman's head?
+BEGIN_RESPONSE
+[The woman is wearing a headband.]
+END_RESPONSE
+TOTAL_LATENCY: 2.590 seconds
+GENERATION_LATENCY: 2.589 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What kind of pants is the woman wearing?
+BEGIN_RESPONSE
+[The woman is wearing grey pants with a floral pattern.]
+END_RESPONSE
+TOTAL_LATENCY: 2.927 seconds
+GENERATION_LATENCY: 2.926 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there an plate?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.219 seconds
+GENERATION_LATENCY: 2.219 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Do both women carry handbags?
+BEGIN_RESPONSE
+[Yes, both women carry handbags.]
+END_RESPONSE
+TOTAL_LATENCY: 2.493 seconds
+GENERATION_LATENCY: 2.492 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there anyone wearing a hat?
+BEGIN_RESPONSE
+[No, there is no one wearing a hat in the image.]
+END_RESPONSE
+TOTAL_LATENCY: 3.193 seconds
+GENERATION_LATENCY: 3.193 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many steps?
+BEGIN_RESPONSE
+[20]
+END_RESPONSE
+TOTAL_LATENCY: 1.999 seconds
+GENERATION_LATENCY: 1.998 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many people are sitting down?
+BEGIN_RESPONSE
+[1 person is sitting down]
+END_RESPONSE
+TOTAL_LATENCY: 2.357 seconds
+GENERATION_LATENCY: 2.356 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the girl's mouth closed?
+BEGIN_RESPONSE
+[No, the girl's mouth is not closed.]
+END_RESPONSE
+TOTAL_LATENCY: 2.949 seconds
+GENERATION_LATENCY: 2.948 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Does the woman have sexy legs?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.892 seconds
+GENERATION_LATENCY: 1.891 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Where is the woman sitting?
+BEGIN_RESPONSE
+[The woman is sitting on a set of stairs.]
+END_RESPONSE
+TOTAL_LATENCY: 2.844 seconds
+GENERATION_LATENCY: 2.843 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the cat?
+BEGIN_RESPONSE
+[The cat is gray and white.]
+END_RESPONSE
+TOTAL_LATENCY: 2.487 seconds
+GENERATION_LATENCY: 2.486 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there any light visible on top of the cat?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.252 seconds
+GENERATION_LATENCY: 2.252 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Did the cat eat the food on the plate?
+BEGIN_RESPONSE
+[Your Answer: Yes, the cat ate the food on the plate.]
+END_RESPONSE
+TOTAL_LATENCY: 3.337 seconds
+GENERATION_LATENCY: 3.336 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the person's helmet?
+BEGIN_RESPONSE
+[The person's helmet is white.]
+END_RESPONSE
+TOTAL_LATENCY: 2.618 seconds
+GENERATION_LATENCY: 2.617 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is a person who rides on a skateboard called?
+BEGIN_RESPONSE
+[Skateboarder: a person who rides on a skateboard]
+END_RESPONSE
+TOTAL_LATENCY: 3.335 seconds
+GENERATION_LATENCY: 3.334 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this in the US?
+BEGIN_RESPONSE
+[Your Answer: No, this is not in the US. It appears to be in a European city based on the signage and architecture.]
+END_RESPONSE
+TOTAL_LATENCY: 4.881 seconds
+GENERATION_LATENCY: 4.880 seconds
+DECODE_LATENCY: 0.002 seconds
+Q: How many contrails are there?
+BEGIN_RESPONSE
+[There are 4 contrails.]
+END_RESPONSE
+TOTAL_LATENCY: 2.503 seconds
+GENERATION_LATENCY: 2.503 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What are the lines in the sky?
+BEGIN_RESPONSE
+[The lines in the sky are contrails.]
+END_RESPONSE
+TOTAL_LATENCY: 2.756 seconds
+GENERATION_LATENCY: 2.755 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the plane going to crash?
+BEGIN_RESPONSE
+[Your Answer: No, the plane is not going to crash]
+END_RESPONSE
+TOTAL_LATENCY: 3.217 seconds
+GENERATION_LATENCY: 3.216 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the trash empty or full?
+BEGIN_RESPONSE
+[Your Answer: full]
+END_RESPONSE
+TOTAL_LATENCY: 2.254 seconds
+GENERATION_LATENCY: 2.254 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What does the dispenser on the wall give?
+BEGIN_RESPONSE
+[Your Answer: soap]
+END_RESPONSE
+TOTAL_LATENCY: 2.265 seconds
+GENERATION_LATENCY: 2.264 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What colors are the tile on the wall?
+BEGIN_RESPONSE
+[Your Answer: black and white]
+END_RESPONSE
+TOTAL_LATENCY: 2.490 seconds
+GENERATION_LATENCY: 2.489 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Has this bathroom been cleaned recently?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.266 seconds
+GENERATION_LATENCY: 2.266 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color is the soap dispenser on the wall above the sink?
+BEGIN_RESPONSE
+[Your Answer: white]
+END_RESPONSE
+TOTAL_LATENCY: 2.270 seconds
+GENERATION_LATENCY: 2.270 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is there hand soap on the sink?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.276 seconds
+GENERATION_LATENCY: 2.276 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Which one do you pee in?
+BEGIN_RESPONSE
+[Your Answer: urinal]
+END_RESPONSE
+TOTAL_LATENCY: 2.379 seconds
+GENERATION_LATENCY: 2.378 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the bottle on the sink?
+BEGIN_RESPONSE
+[Your Answer: white]
+END_RESPONSE
+TOTAL_LATENCY: 2.252 seconds
+GENERATION_LATENCY: 2.252 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many bottle of soap are displayed?
+BEGIN_RESPONSE
+[Your Answer: 1]
+END_RESPONSE
+TOTAL_LATENCY: 2.365 seconds
+GENERATION_LATENCY: 2.364 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is there a towel rack visible?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.242 seconds
+GENERATION_LATENCY: 2.241 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Would you be afraid of getting mugged here?
+BEGIN_RESPONSE
+[Your Answer: 25]
+END_RESPONSE
+TOTAL_LATENCY: 2.505 seconds
+GENERATION_LATENCY: 2.504 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is it sunny out?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.271 seconds
+GENERATION_LATENCY: 2.271 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there lighting?
+BEGIN_RESPONSE
+[Yes, there is lighting in the image.]
+END_RESPONSE
+TOTAL_LATENCY: 2.740 seconds
+GENERATION_LATENCY: 2.739 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Does the giraffe appear dangerous?
+BEGIN_RESPONSE
+[Your Answer: No, the giraffe does not appear dangerous]
+END_RESPONSE
+TOTAL_LATENCY: 3.150 seconds
+GENERATION_LATENCY: 3.150 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the man's shirt?
+BEGIN_RESPONSE
+[Man's shirt color: beige]
+END_RESPONSE
+TOTAL_LATENCY: 2.587 seconds
+GENERATION_LATENCY: 2.587 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What animal is this?
+BEGIN_RESPONSE
+[Giraffe: 30]
+END_RESPONSE
+TOTAL_LATENCY: 2.462 seconds
+GENERATION_LATENCY: 2.462 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color are the spots on the animal?
+BEGIN_RESPONSE
+[The spots on the animal are brown.]
+END_RESPONSE
+TOTAL_LATENCY: 2.584 seconds
+GENERATION_LATENCY: 2.583 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the man wearing sunglasses?
+BEGIN_RESPONSE
+[No, the man is not wearing sunglasses.]
+END_RESPONSE
+TOTAL_LATENCY: 2.693 seconds
+GENERATION_LATENCY: 2.693 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What sport is this?
+BEGIN_RESPONSE
+[This is a baseball activity.]
+END_RESPONSE
+TOTAL_LATENCY: 2.341 seconds
+GENERATION_LATENCY: 2.340 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this picture in color?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.231 seconds
+GENERATION_LATENCY: 2.230 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What do you call this sports location?
+BEGIN_RESPONSE
+[Answer: batting cage]
+END_RESPONSE
+TOTAL_LATENCY: 2.244 seconds
+GENERATION_LATENCY: 2.243 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Where is he standing?
+BEGIN_RESPONSE
+[He is standing in a batting cage.]
+END_RESPONSE
+TOTAL_LATENCY: 2.607 seconds
+GENERATION_LATENCY: 2.606 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the name of this sport?
+BEGIN_RESPONSE
+[This is baseball.]
+END_RESPONSE
+TOTAL_LATENCY: 2.147 seconds
+GENERATION_LATENCY: 2.147 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the boy wearing?
+BEGIN_RESPONSE
+[The boy is wearing a white shirt and light-colored shorts.]
+END_RESPONSE
+TOTAL_LATENCY: 3.225 seconds
+GENERATION_LATENCY: 3.224 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What sport are they playing?
+BEGIN_RESPONSE
+[They are playing baseball.]
+END_RESPONSE
+TOTAL_LATENCY: 2.273 seconds
+GENERATION_LATENCY: 2.272 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the person holding?
+BEGIN_RESPONSE
+[The person is holding a baseball bat.]
+END_RESPONSE
+TOTAL_LATENCY: 2.628 seconds
+GENERATION_LATENCY: 2.627 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is he holding?
+BEGIN_RESPONSE
+[He is holding a baseball bat.]
+END_RESPONSE
+TOTAL_LATENCY: 2.484 seconds
+GENERATION_LATENCY: 2.483 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What sports equipment is the boy holding?
+BEGIN_RESPONSE
+[The boy is holding a baseball bat.]
+END_RESPONSE
+TOTAL_LATENCY: 2.601 seconds
+GENERATION_LATENCY: 2.600 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What kind of animal is this?
+BEGIN_RESPONSE
+[Animal: zebra]
+END_RESPONSE
+TOTAL_LATENCY: 2.253 seconds
+GENERATION_LATENCY: 2.252 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there any reflection of zebra in water?
+BEGIN_RESPONSE
+[Yes, there is a reflection of a zebra in the water.]
+END_RESPONSE
+TOTAL_LATENCY: 3.339 seconds
+GENERATION_LATENCY: 3.338 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this the watering hole?
+BEGIN_RESPONSE
+[Yes, this is the watering hole.]
+END_RESPONSE
+TOTAL_LATENCY: 2.637 seconds
+GENERATION_LATENCY: 2.636 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What design is on the umbrella?
+BEGIN_RESPONSE
+[Your Answer: The umbrella has a blue and white striped design]
+END_RESPONSE
+TOTAL_LATENCY: 3.224 seconds
+GENERATION_LATENCY: 3.223 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the umbrella casting a shadow?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.887 seconds
+GENERATION_LATENCY: 1.886 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What would happen if the tide came in?
+BEGIN_RESPONSE
+[Your Answer: The tide would come in and submerge the beach and the chair]
+END_RESPONSE
+TOTAL_LATENCY: 3.614 seconds
+GENERATION_LATENCY: 3.613 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many buildings are in the distance?
+BEGIN_RESPONSE
+[Your Answer: 1]
+END_RESPONSE
+TOTAL_LATENCY: 2.348 seconds
+GENERATION_LATENCY: 2.348 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the chair made of?
+BEGIN_RESPONSE
+[The chair is made of metal]
+END_RESPONSE
+TOTAL_LATENCY: 2.481 seconds
+GENERATION_LATENCY: 2.481 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is stuck in the ground?
+BEGIN_RESPONSE
+[Your Answer: a small rock]
+END_RESPONSE
+TOTAL_LATENCY: 2.507 seconds
+GENERATION_LATENCY: 2.507 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is that a steer skull in the background?
+BEGIN_RESPONSE
+[Your Answer: No, it is an elephant standing next to a pillar]
+END_RESPONSE
+TOTAL_LATENCY: 3.472 seconds
+GENERATION_LATENCY: 3.471 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Where is the elephant's trunk?
+BEGIN_RESPONSE
+[The elephant's trunk is hanging down.]
+END_RESPONSE
+TOTAL_LATENCY: 2.751 seconds
+GENERATION_LATENCY: 2.751 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the fence made of?
+BEGIN_RESPONSE
+[The fence is made of metal]
+END_RESPONSE
+TOTAL_LATENCY: 2.520 seconds
+GENERATION_LATENCY: 2.519 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What kind of animal is this?
+BEGIN_RESPONSE
+[This is an elephant.]
+END_RESPONSE
+TOTAL_LATENCY: 2.275 seconds
+GENERATION_LATENCY: 2.274 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How tall is the fence?
+BEGIN_RESPONSE
+[20 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.153 seconds
+GENERATION_LATENCY: 2.152 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Does this animal live in the wild?
+BEGIN_RESPONSE
+[This animal is an elephant, which is typically found in the wild.]
+END_RESPONSE
+TOTAL_LATENCY: 3.317 seconds
+GENERATION_LATENCY: 3.316 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there a baby elephant?
+BEGIN_RESPONSE
+[Yes, there is a baby elephant in the image.]
+END_RESPONSE
+TOTAL_LATENCY: 2.950 seconds
+GENERATION_LATENCY: 2.949 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there poop on the ground?
+BEGIN_RESPONSE
+[No, there is no poop on the ground.]
+END_RESPONSE
+TOTAL_LATENCY: 2.836 seconds
+GENERATION_LATENCY: 2.836 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Where is the white fencing?
+BEGIN_RESPONSE
+[The white fencing is located in the background, near the trees and the chain-link fence.]
+END_RESPONSE
+TOTAL_LATENCY: 3.935 seconds
+GENERATION_LATENCY: 3.933 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the car?
+BEGIN_RESPONSE
+[The car is silver]
+END_RESPONSE
+TOTAL_LATENCY: 2.265 seconds
+GENERATION_LATENCY: 2.264 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Where did the shadow on the car come from?
+BEGIN_RESPONSE
+[Your Answer: The shadow on the car came from the tree to the right of the car.]
+END_RESPONSE
+TOTAL_LATENCY: 3.934 seconds
+GENERATION_LATENCY: 3.933 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the color of the seat inside the vehicle?
+BEGIN_RESPONSE
+[Your Answer: yellow]
+END_RESPONSE
+TOTAL_LATENCY: 2.269 seconds
+GENERATION_LATENCY: 2.269 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Can the dog drive?
+BEGIN_RESPONSE
+[Your Answer: 20]
+END_RESPONSE
+TOTAL_LATENCY: 2.494 seconds
+GENERATION_LATENCY: 2.494 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What breed is the black dog?
+BEGIN_RESPONSE
+[The black dog is a Labrador Retriever.]
+END_RESPONSE
+TOTAL_LATENCY: 2.693 seconds
+GENERATION_LATENCY: 2.692 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the door handle shown?
+BEGIN_RESPONSE
+[Door handle color: silver]
+END_RESPONSE
+TOTAL_LATENCY: 2.322 seconds
+GENERATION_LATENCY: 2.321 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the car in motion?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.208 seconds
+GENERATION_LATENCY: 2.208 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the dog driving the car?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.223 seconds
+GENERATION_LATENCY: 2.222 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is he a child, parent, or grandparent?
+BEGIN_RESPONSE
+[He is a grandparent.]
+END_RESPONSE
+TOTAL_LATENCY: 2.367 seconds
+GENERATION_LATENCY: 2.366 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What type of tie is the man wearing?
+BEGIN_RESPONSE
+[The man is wearing a black bow tie.]
+END_RESPONSE
+TOTAL_LATENCY: 2.713 seconds
+GENERATION_LATENCY: 2.712 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the man going to kiss someone?
+BEGIN_RESPONSE
+[Your Answer: No, the man is not going to kiss someone.]
+END_RESPONSE
+TOTAL_LATENCY: 3.300 seconds
+GENERATION_LATENCY: 3.299 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the man dressed casually?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.264 seconds
+GENERATION_LATENCY: 2.264 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is there any cups on the table?
+BEGIN_RESPONSE
+[Your Answer: 1]
+END_RESPONSE
+TOTAL_LATENCY: 2.382 seconds
+GENERATION_LATENCY: 2.382 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the flower made of?
+BEGIN_RESPONSE
+[Your Answer: metal and plastic]
+END_RESPONSE
+TOTAL_LATENCY: 2.498 seconds
+GENERATION_LATENCY: 2.497 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What are the glass items, you place flowers in called?
+BEGIN_RESPONSE
+[Your Answer: vases]
+END_RESPONSE
+TOTAL_LATENCY: 2.268 seconds
+GENERATION_LATENCY: 2.267 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are the window wipers touching?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.270 seconds
+GENERATION_LATENCY: 2.270 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What city does this fire truck belong to?
+BEGIN_RESPONSE
+[River Rouge]
+END_RESPONSE
+TOTAL_LATENCY: 2.038 seconds
+GENERATION_LATENCY: 2.038 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color is this truck?
+BEGIN_RESPONSE
+[This truck is red and white.]
+END_RESPONSE
+TOTAL_LATENCY: 2.499 seconds
+GENERATION_LATENCY: 2.499 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this a police truck?
+BEGIN_RESPONSE
+[This is a fire truck, not a police truck]
+END_RESPONSE
+TOTAL_LATENCY: 2.916 seconds
+GENERATION_LATENCY: 2.916 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Where is this animal commonly found?
+BEGIN_RESPONSE
+[This animal is commonly found in grasslands, meadows, and open fields. It is a sheep, which is a domesticated animal raised primarily for its wool, meat, and milk.]
+END_RESPONSE
+TOTAL_LATENCY: 5.961 seconds
+GENERATION_LATENCY: 5.960 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is it's nose?
+BEGIN_RESPONSE
+[Its nose is black]
+END_RESPONSE
+TOTAL_LATENCY: 2.283 seconds
+GENERATION_LATENCY: 2.283 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is there any grass on the ground?
+BEGIN_RESPONSE
+[Yes, there is grass on the ground]
+END_RESPONSE
+TOTAL_LATENCY: 2.748 seconds
+GENERATION_LATENCY: 2.748 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Do any of these items match?
+BEGIN_RESPONSE
+[No items match]
+END_RESPONSE
+TOTAL_LATENCY: 2.163 seconds
+GENERATION_LATENCY: 2.163 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are they packing?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.219 seconds
+GENERATION_LATENCY: 2.219 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many pairs of shoes are in the photo?
+BEGIN_RESPONSE
+[Your Answer: 2]
+END_RESPONSE
+TOTAL_LATENCY: 2.336 seconds
+GENERATION_LATENCY: 2.336 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this messy?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.211 seconds
+GENERATION_LATENCY: 2.211 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the fruit sitting in?
+BEGIN_RESPONSE
+[Your Answer: a wooden bowl]
+END_RESPONSE
+TOTAL_LATENCY: 2.456 seconds
+GENERATION_LATENCY: 2.455 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is in the brown wooden bowl?
+BEGIN_RESPONSE
+[Your Answer: three yellow apples and one banana]
+END_RESPONSE
+TOTAL_LATENCY: 2.860 seconds
+GENERATION_LATENCY: 2.859 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What company name is visible?
+BEGIN_RESPONSE
+[Company Name: "Janus Vision"]
+END_RESPONSE
+TOTAL_LATENCY: 2.625 seconds
+GENERATION_LATENCY: 2.625 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What season is shown?
+BEGIN_RESPONSE
+[Your Answer: Spring]
+END_RESPONSE
+TOTAL_LATENCY: 2.268 seconds
+GENERATION_LATENCY: 2.268 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color is the back door?
+BEGIN_RESPONSE
+[The back door of the train is yellow.]
+END_RESPONSE
+TOTAL_LATENCY: 2.684 seconds
+GENERATION_LATENCY: 2.684 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What area is surrounding the train?
+BEGIN_RESPONSE
+[Your Answer: surrounding the train are trees and bushes]
+END_RESPONSE
+TOTAL_LATENCY: 2.915 seconds
+GENERATION_LATENCY: 2.915 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the man happy?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.872 seconds
+GENERATION_LATENCY: 1.871 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Do you find any paintings?
+BEGIN_RESPONSE
+[Yes, there are paintings in the background]
+END_RESPONSE
+TOTAL_LATENCY: 2.726 seconds
+GENERATION_LATENCY: 2.725 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is he on a cell phone?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.911 seconds
+GENERATION_LATENCY: 1.911 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color are his buttons?
+BEGIN_RESPONSE
+[His buttons are red.]
+END_RESPONSE
+TOTAL_LATENCY: 2.271 seconds
+GENERATION_LATENCY: 2.270 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the man wearing a bow tie?
+BEGIN_RESPONSE
+[Yes, the man is wearing a bow tie.]
+END_RESPONSE
+TOTAL_LATENCY: 2.848 seconds
+GENERATION_LATENCY: 2.847 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Does he look like asian?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.215 seconds
+GENERATION_LATENCY: 2.214 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are they fragile?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.212 seconds
+GENERATION_LATENCY: 2.211 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the fire hydrant broken?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.213 seconds
+GENERATION_LATENCY: 2.212 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is this made of?
+BEGIN_RESPONSE
+[This is a fire hydrant, typically made of cast iron or ductile iron.]
+END_RESPONSE
+TOTAL_LATENCY: 3.683 seconds
+GENERATION_LATENCY: 3.682 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the dark area in the background?
+BEGIN_RESPONSE
+[Your Answer: a building]
+END_RESPONSE
+TOTAL_LATENCY: 2.388 seconds
+GENERATION_LATENCY: 2.387 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there a tube of toothpaste?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.269 seconds
+GENERATION_LATENCY: 2.268 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color is the fire hydrant?
+BEGIN_RESPONSE
+[The fire hydrant is black.]
+END_RESPONSE
+TOTAL_LATENCY: 2.465 seconds
+GENERATION_LATENCY: 2.464 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the hydrant dry?
+BEGIN_RESPONSE
+[Yes, the hydrant is dry.]
+END_RESPONSE
+TOTAL_LATENCY: 2.555 seconds
+GENERATION_LATENCY: 2.554 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this in color?
+BEGIN_RESPONSE
+[Your Answer: 20]
+END_RESPONSE
+TOTAL_LATENCY: 2.435 seconds
+GENERATION_LATENCY: 2.434 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Why is the fire hydrant open?
+BEGIN_RESPONSE
+[The fire hydrant is open for emergency use, as indicated by the visible connection and the typical design of hydrants in urban settings.]
+END_RESPONSE
+TOTAL_LATENCY: 4.957 seconds
+GENERATION_LATENCY: 4.956 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is it daytime?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.262 seconds
+GENERATION_LATENCY: 2.261 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What kind of animal is shown?
+BEGIN_RESPONSE
+[Animal: cow]
+END_RESPONSE
+TOTAL_LATENCY: 2.147 seconds
+GENERATION_LATENCY: 2.146 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What caused the fog in the background?
+BEGIN_RESPONSE
+[Your Answer: The fog in the background is caused by the cool and moist air in the environment, typical of mountainous regions.]
+END_RESPONSE
+TOTAL_LATENCY: 4.547 seconds
+GENERATION_LATENCY: 4.546 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is in the road?
+BEGIN_RESPONSE
+[Your Answer: a yellow construction vehicle]
+END_RESPONSE
+TOTAL_LATENCY: 2.560 seconds
+GENERATION_LATENCY: 2.560 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the sun out?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.205 seconds
+GENERATION_LATENCY: 2.205 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Where are those cats at?
+BEGIN_RESPONSE
+[Those cats are in a garden area near a wooden structure with plants and a bench.]
+END_RESPONSE
+TOTAL_LATENCY: 3.688 seconds
+GENERATION_LATENCY: 3.687 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many cats are in the scene?
+BEGIN_RESPONSE
+[3]
+END_RESPONSE
+TOTAL_LATENCY: 1.908 seconds
+GENERATION_LATENCY: 1.908 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are the two cats fighting?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.911 seconds
+GENERATION_LATENCY: 1.910 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are all of the cats the same color?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.889 seconds
+GENERATION_LATENCY: 1.889 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there a red car?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.212 seconds
+GENERATION_LATENCY: 2.212 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are invisible people sitting at the table?
+BEGIN_RESPONSE
+[Your Answer: 25]
+END_RESPONSE
+TOTAL_LATENCY: 2.450 seconds
+GENERATION_LATENCY: 2.450 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Will wine be served?
+BEGIN_RESPONSE
+[Your Answer: 25 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.563 seconds
+GENERATION_LATENCY: 2.562 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many people are going to eat dinner?
+BEGIN_RESPONSE
+[Your Answer: 4]
+END_RESPONSE
+TOTAL_LATENCY: 2.388 seconds
+GENERATION_LATENCY: 2.387 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this man's mustache curled?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.911 seconds
+GENERATION_LATENCY: 1.911 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Why is this man  looking up?
+BEGIN_RESPONSE
+[User_Query: Why is this man looking up?
+Priority: quality
+Output_Range: between 20 and 50 tokens
+Task_Complexity: minimal
+Response_Detail: concise
+Time_Budget: ultra-fast]
+
+The man is looking up possibly because he is observing something above him or engaging in a conversation.
+
+END_RESPONSE
+TOTAL_LATENCY: 10.134 seconds
+GENERATION_LATENCY: 10.132 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Where was the photo taken?
+BEGIN_RESPONSE
+[Photo taken in a park with trees and people in the background]
+END_RESPONSE
+TOTAL_LATENCY: 3.154 seconds
+GENERATION_LATENCY: 3.154 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the object on the table?
+BEGIN_RESPONSE
+[Object on the table: radio]
+END_RESPONSE
+TOTAL_LATENCY: 2.509 seconds
+GENERATION_LATENCY: 2.509 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Does the man have short hair?
+BEGIN_RESPONSE
+[User Query: Does the man have short hair?]
+[Priority: quality]
+[Output Range: between 20 and 50 tokens]
+[Task Complexity: minimal]
+[Response Detail: concise]
+[Time Budget: ultra-fast]
+[Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 8.937 seconds
+GENERATION_LATENCY: 8.936 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the man going to throw the skateboard?
+BEGIN_RESPONSE
+[Your Answer: No, the man is not going to throw the skateboard.]
+END_RESPONSE
+TOTAL_LATENCY: 3.501 seconds
+GENERATION_LATENCY: 3.501 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Where are the knives located relative to the plate?
+BEGIN_RESPONSE
+[Your Answer: 25 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.565 seconds
+GENERATION_LATENCY: 2.564 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Has a plate been made yet?
+BEGIN_RESPONSE
+[Your Answer: 25 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.620 seconds
+GENERATION_LATENCY: 2.619 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the pattern on the tablecloth?
+BEGIN_RESPONSE
+[Your Answer: checkered]
+END_RESPONSE
+TOTAL_LATENCY: 2.393 seconds
+GENERATION_LATENCY: 2.392 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many silver forks are there?
+BEGIN_RESPONSE
+[1]
+END_RESPONSE
+TOTAL_LATENCY: 1.914 seconds
+GENERATION_LATENCY: 1.914 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is that wine in the background?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.274 seconds
+GENERATION_LATENCY: 2.274 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are there bananas?
+BEGIN_RESPONSE
+[Your Answer: 20]
+END_RESPONSE
+TOTAL_LATENCY: 2.506 seconds
+GENERATION_LATENCY: 2.506 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is in the white and blue container?
+BEGIN_RESPONSE
+[Your Answer: 25 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.626 seconds
+GENERATION_LATENCY: 2.626 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Where is the blue and white checkered cloth?
+BEGIN_RESPONSE
+[Your Answer: The blue and white checkered cloth is on the table.]
+END_RESPONSE
+TOTAL_LATENCY: 3.448 seconds
+GENERATION_LATENCY: 3.447 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What food is in on the plates?
+BEGIN_RESPONSE
+[Bread, salad, meat, cheese, and a box of crackers]
+END_RESPONSE
+TOTAL_LATENCY: 3.331 seconds
+GENERATION_LATENCY: 3.331 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this in a restaurant?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.262 seconds
+GENERATION_LATENCY: 2.261 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many wheels does the lead vehicle have?
+BEGIN_RESPONSE
+[Your Answer: 2]
+END_RESPONSE
+TOTAL_LATENCY: 2.384 seconds
+GENERATION_LATENCY: 2.383 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the man on the red motorcycles helmet?
+BEGIN_RESPONSE
+[Answer: black]
+END_RESPONSE
+TOTAL_LATENCY: 2.159 seconds
+GENERATION_LATENCY: 2.159 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is there a bicycle in the picture?
+BEGIN_RESPONSE
+[Yes, there is a bicycle in the picture.]
+END_RESPONSE
+TOTAL_LATENCY: 2.863 seconds
+GENERATION_LATENCY: 2.863 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is there a harley show doing on the street?
+BEGIN_RESPONSE
+[Your Answer: Yes, there is a Harley show happening on the street.]
+END_RESPONSE
+TOTAL_LATENCY: 3.456 seconds
+GENERATION_LATENCY: 3.456 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What do the trees form?
+BEGIN_RESPONSE
+[Your Answer: Trees form a canopy]
+END_RESPONSE
+TOTAL_LATENCY: 2.605 seconds
+GENERATION_LATENCY: 2.604 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many motorcycles are there displayed?
+BEGIN_RESPONSE
+[20]
+END_RESPONSE
+TOTAL_LATENCY: 2.013 seconds
+GENERATION_LATENCY: 2.013 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Did the cow knock down the building?
+BEGIN_RESPONSE
+[Your Answer: No, the cow did not knock down the building.]
+END_RESPONSE
+TOTAL_LATENCY: 3.317 seconds
+GENERATION_LATENCY: 3.316 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the cow running?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.214 seconds
+GENERATION_LATENCY: 2.213 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Does the cow have horns?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.865 seconds
+GENERATION_LATENCY: 1.865 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the house on fire?
+BEGIN_RESPONSE
+[Your Answer: No, the house is not on fire.]
+END_RESPONSE
+TOTAL_LATENCY: 3.027 seconds
+GENERATION_LATENCY: 3.026 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the food inside of?
+BEGIN_RESPONSE
+[Your Answer: a plastic container]
+END_RESPONSE
+TOTAL_LATENCY: 2.490 seconds
+GENERATION_LATENCY: 2.490 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is there fruit in this dinner?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.275 seconds
+GENERATION_LATENCY: 2.275 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color is the fork?
+BEGIN_RESPONSE
+[Answer: red]
+END_RESPONSE
+TOTAL_LATENCY: 2.156 seconds
+GENERATION_LATENCY: 2.156 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color is the man's shirt?
+BEGIN_RESPONSE
+[The man's shirt is red.]
+END_RESPONSE
+TOTAL_LATENCY: 2.622 seconds
+GENERATION_LATENCY: 2.621 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the man going to fall down?
+BEGIN_RESPONSE
+[Your Answer: No, the man is not going to fall down]
+END_RESPONSE
+TOTAL_LATENCY: 3.359 seconds
+GENERATION_LATENCY: 3.358 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What sport is being played?
+BEGIN_RESPONSE
+[Your Answer: tennis]
+END_RESPONSE
+TOTAL_LATENCY: 2.269 seconds
+GENERATION_LATENCY: 2.269 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What brand is the racket?
+BEGIN_RESPONSE
+[The brand of the racket is HEAD.]
+END_RESPONSE
+TOTAL_LATENCY: 2.612 seconds
+GENERATION_LATENCY: 2.611 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the guy's shirt?
+BEGIN_RESPONSE
+[The guy's shirt is red.]
+END_RESPONSE
+TOTAL_LATENCY: 2.617 seconds
+GENERATION_LATENCY: 2.616 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the surface of the court made of?
+BEGIN_RESPONSE
+[The surface of the court is made of clay.]
+END_RESPONSE
+TOTAL_LATENCY: 2.862 seconds
+GENERATION_LATENCY: 2.862 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is he serving?
+BEGIN_RESPONSE
+[He is serving.]
+END_RESPONSE
+TOTAL_LATENCY: 2.140 seconds
+GENERATION_LATENCY: 2.140 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are there any toys in the picture?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.223 seconds
+GENERATION_LATENCY: 2.222 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are the DVD's arranged neatly?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.219 seconds
+GENERATION_LATENCY: 2.219 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What are the items on the shelf?
+BEGIN_RESPONSE
+[Your Answer: The items on the shelf include books, DVDs, stuffed animals, and electronic devices.]
+END_RESPONSE
+TOTAL_LATENCY: 3.966 seconds
+GENERATION_LATENCY: 3.965 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the TV facing a wall?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.264 seconds
+GENERATION_LATENCY: 2.264 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is there a necktie in the photo?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.262 seconds
+GENERATION_LATENCY: 2.261 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is on the shelf?
+BEGIN_RESPONSE
+[Your Answer: The shelf contains various items including books, DVDs, stuffed animals, and electronic devices.]
+END_RESPONSE
+TOTAL_LATENCY: 4.053 seconds
+GENERATION_LATENCY: 4.053 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the TV on or off?
+BEGIN_RESPONSE
+[Your Answer: 20]
+END_RESPONSE
+TOTAL_LATENCY: 2.453 seconds
+GENERATION_LATENCY: 2.453 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the house?
+BEGIN_RESPONSE
+[The house is red with white trim.]
+END_RESPONSE
+TOTAL_LATENCY: 2.572 seconds
+GENERATION_LATENCY: 2.571 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is it indoors?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.221 seconds
+GENERATION_LATENCY: 2.220 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the time available?
+BEGIN_RESPONSE
+[Your Answer: Yes, the time is available.]
+END_RESPONSE
+TOTAL_LATENCY: 2.829 seconds
+GENERATION_LATENCY: 2.828 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this in the wild?
+BEGIN_RESPONSE
+[Your Answer: Yes, it appears to be in a zoo or wildlife reserve]
+END_RESPONSE
+TOTAL_LATENCY: 3.567 seconds
+GENERATION_LATENCY: 3.567 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many animals are in the picture?
+BEGIN_RESPONSE
+[3 animals]
+END_RESPONSE
+TOTAL_LATENCY: 2.018 seconds
+GENERATION_LATENCY: 2.018 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is that a bear?
+BEGIN_RESPONSE
+[Your Answer: No, it is a giraffe.]
+END_RESPONSE
+TOTAL_LATENCY: 2.933 seconds
+GENERATION_LATENCY: 2.933 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are there more giraffes than zebras?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.227 seconds
+GENERATION_LATENCY: 2.226 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are all of these animals the same?
+BEGIN_RESPONSE
+[Yes, all of these animals are the same. They are all giraffes.]
+END_RESPONSE
+TOTAL_LATENCY: 3.637 seconds
+GENERATION_LATENCY: 3.636 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What type of animals are these?
+BEGIN_RESPONSE
+[These animals are giraffes.]
+END_RESPONSE
+TOTAL_LATENCY: 2.490 seconds
+GENERATION_LATENCY: 2.489 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is this sport?
+BEGIN_RESPONSE
+[This is skateboarding, a sport involving tricks and maneuvers on a skateboard.]
+END_RESPONSE
+TOTAL_LATENCY: 3.680 seconds
+GENERATION_LATENCY: 3.679 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is he falling?
+BEGIN_RESPONSE
+[He is not falling. The skateboarder is performing a trick.]
+END_RESPONSE
+TOTAL_LATENCY: 3.326 seconds
+GENERATION_LATENCY: 3.325 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are the man's hands raised?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.866 seconds
+GENERATION_LATENCY: 1.866 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the man skateboarding on?
+BEGIN_RESPONSE
+[The man is skateboarding on a rail.]
+END_RESPONSE
+TOTAL_LATENCY: 2.686 seconds
+GENERATION_LATENCY: 2.685 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is it daytime?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.235 seconds
+GENERATION_LATENCY: 2.234 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the building behind the sign old?
+BEGIN_RESPONSE
+[The building behind the sign appears to be old based on its architectural style and materials.]
+END_RESPONSE
+TOTAL_LATENCY: 3.660 seconds
+GENERATION_LATENCY: 3.660 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Where is the arrow pointing?
+BEGIN_RESPONSE
+[The arrow is pointing to the right.]
+END_RESPONSE
+TOTAL_LATENCY: 2.622 seconds
+GENERATION_LATENCY: 2.622 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Which way is the "one way" sign pointing?
+BEGIN_RESPONSE
+[The "one way" sign is pointing to the right]
+END_RESPONSE
+TOTAL_LATENCY: 3.100 seconds
+GENERATION_LATENCY: 3.100 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many signs are attached to the pole?
+BEGIN_RESPONSE
+[2]
+END_RESPONSE
+TOTAL_LATENCY: 1.875 seconds
+GENERATION_LATENCY: 1.875 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What Avenue is that?
+BEGIN_RESPONSE
+[Columbus Avenue]
+END_RESPONSE
+TOTAL_LATENCY: 2.105 seconds
+GENERATION_LATENCY: 2.105 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many people are wearing glasses?
+BEGIN_RESPONSE
+[2]
+END_RESPONSE
+TOTAL_LATENCY: 1.864 seconds
+GENERATION_LATENCY: 1.863 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the elderly man pouring?
+BEGIN_RESPONSE
+[The elderly man is pouring wine.]
+END_RESPONSE
+TOTAL_LATENCY: 2.437 seconds
+GENERATION_LATENCY: 2.437 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the woman's sweater?
+BEGIN_RESPONSE
+[The woman's sweater is pink.]
+END_RESPONSE
+TOTAL_LATENCY: 2.628 seconds
+GENERATION_LATENCY: 2.628 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Can you outrun these elephants?
+BEGIN_RESPONSE
+[Your Answer: No, you cannot outrun these elephants. They are much faster.]
+END_RESPONSE
+TOTAL_LATENCY: 3.700 seconds
+GENERATION_LATENCY: 3.700 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Which way are they going?
+BEGIN_RESPONSE
+[They are moving towards the right side of the image.]
+END_RESPONSE
+TOTAL_LATENCY: 2.973 seconds
+GENERATION_LATENCY: 2.972 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this the front or back of the elephants?
+BEGIN_RESPONSE
+[Your Answer: back]
+END_RESPONSE
+TOTAL_LATENCY: 2.229 seconds
+GENERATION_LATENCY: 2.228 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are the animals in their natural habitat?
+BEGIN_RESPONSE
+[Yes, the animals are in their natural habitat.]
+END_RESPONSE
+TOTAL_LATENCY: 2.795 seconds
+GENERATION_LATENCY: 2.794 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there a cabinet under the sink?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.219 seconds
+GENERATION_LATENCY: 2.218 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the toilet lid down?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.265 seconds
+GENERATION_LATENCY: 2.264 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the wall made of?
+BEGIN_RESPONSE
+[Your Answer: drywall]
+END_RESPONSE
+TOTAL_LATENCY: 2.344 seconds
+GENERATION_LATENCY: 2.344 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How do you flush?
+BEGIN_RESPONSE
+[Your Answer: Use the toilet paper or pull chain on the toilet tank to flush.]
+END_RESPONSE
+TOTAL_LATENCY: 3.592 seconds
+GENERATION_LATENCY: 3.590 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this a normal sink fixture?
+BEGIN_RESPONSE
+[Your Answer: Yes, it is a normal sink fixture]
+END_RESPONSE
+TOTAL_LATENCY: 3.019 seconds
+GENERATION_LATENCY: 3.018 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there poop on the floor?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.223 seconds
+GENERATION_LATENCY: 2.222 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Can you see a shower curtain?
+BEGIN_RESPONSE
+[Your Answer: 20]
+END_RESPONSE
+TOTAL_LATENCY: 2.518 seconds
+GENERATION_LATENCY: 2.517 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Does this bathroom need some remodeling?
+BEGIN_RESPONSE
+[Your Answer: 25 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.599 seconds
+GENERATION_LATENCY: 2.599 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there a light switch?
+BEGIN_RESPONSE
+[Your Answer: Yes, there is a light switch.]
+END_RESPONSE
+TOTAL_LATENCY: 2.930 seconds
+GENERATION_LATENCY: 2.929 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the toilet seat down?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.222 seconds
+GENERATION_LATENCY: 2.222 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color is the toilet?
+BEGIN_RESPONSE
+[Your Answer: white]
+END_RESPONSE
+TOTAL_LATENCY: 2.233 seconds
+GENERATION_LATENCY: 2.232 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How small is the bathroom?
+BEGIN_RESPONSE
+[Your Answer: 25 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.665 seconds
+GENERATION_LATENCY: 2.664 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What room is this?
+BEGIN_RESPONSE
+[This is a bathroom.]
+END_RESPONSE
+TOTAL_LATENCY: 2.301 seconds
+GENERATION_LATENCY: 2.300 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the toilet seat up or down?
+BEGIN_RESPONSE
+[Your Answer: down]
+END_RESPONSE
+TOTAL_LATENCY: 2.278 seconds
+GENERATION_LATENCY: 2.277 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the mirror surrounded by lighting?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.224 seconds
+GENERATION_LATENCY: 2.224 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is it daytime?
+BEGIN_RESPONSE
+[Your Answer: 25]
+END_RESPONSE
+TOTAL_LATENCY: 2.441 seconds
+GENERATION_LATENCY: 2.440 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Did someone graffiti the toilet lid?
+BEGIN_RESPONSE
+[Your Answer: No, there is no graffiti on the toilet lid.]
+END_RESPONSE
+TOTAL_LATENCY: 3.262 seconds
+GENERATION_LATENCY: 3.261 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What type of fruits are there?
+BEGIN_RESPONSE
+[User Query: What type of fruits are there?
+Priority: quality
+Output Range: between 20 and 50 tokens
+Task Complexity: minimal
+Response Detail: concise
+Time Budget: ultra-fast]
+
+There are lemons and oranges.
+
+END_RESPONSE
+TOTAL_LATENCY: 8.297 seconds
+GENERATION_LATENCY: 8.296 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What kind of fruit is shown?
+BEGIN_RESPONSE
+[Your Answer: 25 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.629 seconds
+GENERATION_LATENCY: 2.628 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the yellow fruit?
+BEGIN_RESPONSE
+[Your Answer: 25]
+END_RESPONSE
+TOTAL_LATENCY: 2.527 seconds
+GENERATION_LATENCY: 2.526 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the orange fruit called?
+BEGIN_RESPONSE
+[Your Answer: orange]
+END_RESPONSE
+TOTAL_LATENCY: 2.272 seconds
+GENERATION_LATENCY: 2.271 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is there a bus in the water?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.278 seconds
+GENERATION_LATENCY: 2.278 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there a plane?
+BEGIN_RESPONSE
+[Yes, there is a plane in the image.]
+END_RESPONSE
+TOTAL_LATENCY: 2.875 seconds
+GENERATION_LATENCY: 2.875 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the bus sinking?
+BEGIN_RESPONSE
+[Your Answer: No, the bus is not sinking]
+END_RESPONSE
+TOTAL_LATENCY: 2.988 seconds
+GENERATION_LATENCY: 2.987 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What kind of boats of those?
+BEGIN_RESPONSE
+[Your Answer: Yellow boat]
+END_RESPONSE
+TOTAL_LATENCY: 2.400 seconds
+GENERATION_LATENCY: 2.399 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What kind of vehicle is in the water behind the bus?
+BEGIN_RESPONSE
+[The vehicle in the water behind the bus is a seaplane.]
+END_RESPONSE
+TOTAL_LATENCY: 3.343 seconds
+GENERATION_LATENCY: 3.343 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Would "Cheers" be an appropriate word for this scene?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.264 seconds
+GENERATION_LATENCY: 2.263 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What are the men doing with their glasses?
+BEGIN_RESPONSE
+[The men are raising their glasses, possibly for a toast or celebration.]
+END_RESPONSE
+TOTAL_LATENCY: 3.330 seconds
+GENERATION_LATENCY: 3.330 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is it daytime or nighttime?
+BEGIN_RESPONSE
+[Your Answer: It is nighttime.]
+END_RESPONSE
+TOTAL_LATENCY: 2.590 seconds
+GENERATION_LATENCY: 2.589 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this the natural habitat for the zebra?
+BEGIN_RESPONSE
+[User Query: Is this the natural habitat for the zebra?]
+[Priority: quality]
+[Output Range: between 20 and 50 tokens]
+[Task Complexity: minimal]
+[Response Detail: concise]
+[Time Budget: ultra-fast]
+[Answer: Yes, zebras are native to Africa, where they live in grasslands, savannas, and woodlands.]
+END_RESPONSE
+TOTAL_LATENCY: 11.721 seconds
+GENERATION_LATENCY: 11.720 seconds
+DECODE_LATENCY: 0.002 seconds
+Q: Is the animals ears forward?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.868 seconds
+GENERATION_LATENCY: 1.867 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the grass green?
+BEGIN_RESPONSE
+[Your Answer: Yes, the grass is green.]
+END_RESPONSE
+TOTAL_LATENCY: 2.829 seconds
+GENERATION_LATENCY: 2.829 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many zebras are there?
+BEGIN_RESPONSE
+[1]
+END_RESPONSE
+TOTAL_LATENCY: 1.931 seconds
+GENERATION_LATENCY: 1.930 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many animals?
+BEGIN_RESPONSE
+[1]
+END_RESPONSE
+TOTAL_LATENCY: 1.919 seconds
+GENERATION_LATENCY: 1.919 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the giraffe eating?
+BEGIN_RESPONSE
+[Giraffe is eating leaves from a tree]
+END_RESPONSE
+TOTAL_LATENCY: 2.764 seconds
+GENERATION_LATENCY: 2.763 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What kind of animal is this?
+BEGIN_RESPONSE
+[This is a zebra.]
+END_RESPONSE
+TOTAL_LATENCY: 2.435 seconds
+GENERATION_LATENCY: 2.435 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many zebras are there in this picture?
+BEGIN_RESPONSE
+[1]
+END_RESPONSE
+TOTAL_LATENCY: 1.949 seconds
+GENERATION_LATENCY: 1.949 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Will the zebra bump into the branches?
+BEGIN_RESPONSE
+[Your Answer: No, the zebra will not bump into the branches.]
+END_RESPONSE
+TOTAL_LATENCY: 3.482 seconds
+GENERATION_LATENCY: 3.481 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the wall and ceiling made out of?
+BEGIN_RESPONSE
+[Your Answer: The wall and ceiling are made out of wood and wooden panels.]
+END_RESPONSE
+TOTAL_LATENCY: 3.558 seconds
+GENERATION_LATENCY: 3.557 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What room is pictured here?
+BEGIN_RESPONSE
+[Your Answer: bathroom]
+END_RESPONSE
+TOTAL_LATENCY: 2.253 seconds
+GENERATION_LATENCY: 2.252 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What material is the large pipe leaning against the wall made from?
+BEGIN_RESPONSE
+[Your Answer: Wooden material]
+END_RESPONSE
+TOTAL_LATENCY: 2.391 seconds
+GENERATION_LATENCY: 2.390 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this the zebra's natural habitat?
+BEGIN_RESPONSE
+[Your Answer: No, zebras are not native to this habitat.]
+END_RESPONSE
+TOTAL_LATENCY: 3.340 seconds
+GENERATION_LATENCY: 3.339 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this animal an adult?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.275 seconds
+GENERATION_LATENCY: 2.275 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What kind of animal is shown in the image?
+BEGIN_RESPONSE
+[Animal: zebra]
+END_RESPONSE
+TOTAL_LATENCY: 2.272 seconds
+GENERATION_LATENCY: 2.272 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are there any trees behind the fence?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.259 seconds
+GENERATION_LATENCY: 2.258 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the surfer on the surfboard wearing?
+BEGIN_RESPONSE
+[The surfer on the surfboard is wearing a wetsuit.]
+END_RESPONSE
+TOTAL_LATENCY: 3.336 seconds
+GENERATION_LATENCY: 3.335 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many people are wearing bikinis in this picture?
+BEGIN_RESPONSE
+[2]
+END_RESPONSE
+TOTAL_LATENCY: 1.911 seconds
+GENERATION_LATENCY: 1.911 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the woman wearing a one piece?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.917 seconds
+GENERATION_LATENCY: 1.917 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are these all men?
+BEGIN_RESPONSE
+[1]
+END_RESPONSE
+TOTAL_LATENCY: 1.874 seconds
+GENERATION_LATENCY: 1.874 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the man standing on?
+BEGIN_RESPONSE
+[20]
+END_RESPONSE
+TOTAL_LATENCY: 2.002 seconds
+GENERATION_LATENCY: 2.001 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the dog happy?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.213 seconds
+GENERATION_LATENCY: 2.213 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Does the dog have anything on it's neck?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.867 seconds
+GENERATION_LATENCY: 1.867 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the dog?
+BEGIN_RESPONSE
+[Your Answer: white]
+END_RESPONSE
+TOTAL_LATENCY: 2.288 seconds
+GENERATION_LATENCY: 2.287 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is behind the dog?
+BEGIN_RESPONSE
+[Your Answer: a black dog lying on the floor]
+END_RESPONSE
+TOTAL_LATENCY: 2.984 seconds
+GENERATION_LATENCY: 2.984 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is in the back room?
+BEGIN_RESPONSE
+[The back room contains a couch and a bed.]
+END_RESPONSE
+TOTAL_LATENCY: 2.874 seconds
+GENERATION_LATENCY: 2.873 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the sleeping dog?
+BEGIN_RESPONSE
+[Your Answer: white]
+END_RESPONSE
+TOTAL_LATENCY: 2.216 seconds
+GENERATION_LATENCY: 2.216 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many dogs shown?
+BEGIN_RESPONSE
+[2]
+END_RESPONSE
+TOTAL_LATENCY: 1.879 seconds
+GENERATION_LATENCY: 1.878 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the dog laying on a rug?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.220 seconds
+GENERATION_LATENCY: 2.219 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is odd about the dog's eyes?
+BEGIN_RESPONSE
+[Your Answer: The dog's eyes appear to have a slightly uneven shape.]
+END_RESPONSE
+TOTAL_LATENCY: 3.597 seconds
+GENERATION_LATENCY: 3.596 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are there two dogs in the picture?
+BEGIN_RESPONSE
+[Yes, there are two dogs in the picture.]
+END_RESPONSE
+TOTAL_LATENCY: 2.905 seconds
+GENERATION_LATENCY: 2.904 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Do the dogs eyes have to be cropped?
+BEGIN_RESPONSE
+[Your Answer: No, the dogs' eyes do not have to be cropped.]
+END_RESPONSE
+TOTAL_LATENCY: 3.579 seconds
+GENERATION_LATENCY: 3.578 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the person standing on?
+BEGIN_RESPONSE
+[The person is standing on a surfboard.]
+END_RESPONSE
+TOTAL_LATENCY: 2.694 seconds
+GENERATION_LATENCY: 2.693 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is this man standing on?
+BEGIN_RESPONSE
+[Answer: man standing on water]
+END_RESPONSE
+TOTAL_LATENCY: 2.455 seconds
+GENERATION_LATENCY: 2.454 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are there people windsurfing?
+BEGIN_RESPONSE
+[Yes, there are people windsurfing.]
+END_RESPONSE
+TOTAL_LATENCY: 2.688 seconds
+GENERATION_LATENCY: 2.687 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this person wind-sailing?
+BEGIN_RESPONSE
+[Yes, this person is wind-sailing.]
+END_RESPONSE
+TOTAL_LATENCY: 2.831 seconds
+GENERATION_LATENCY: 2.830 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What breed of dog does this appear to be?
+BEGIN_RESPONSE
+[Your Answer: Boxer]
+END_RESPONSE
+TOTAL_LATENCY: 2.398 seconds
+GENERATION_LATENCY: 2.398 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the woman doing to the dog?
+BEGIN_RESPONSE
+[Your Answer: The woman is giving the dog a haircut using a clipper.]
+END_RESPONSE
+TOTAL_LATENCY: 3.582 seconds
+GENERATION_LATENCY: 3.581 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this a happy dog?
+BEGIN_RESPONSE
+[Your Answer: 25]
+END_RESPONSE
+TOTAL_LATENCY: 2.494 seconds
+GENERATION_LATENCY: 2.493 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What's the board with wheels called?
+BEGIN_RESPONSE
+[The board with wheels is called a skateboard.]
+END_RESPONSE
+TOTAL_LATENCY: 2.856 seconds
+GENERATION_LATENCY: 2.856 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What type of pants are pictured?
+BEGIN_RESPONSE
+[User Query: What type of pants are pictured?]
+[Priority: quality]
+[Output Range: between 20 and 50 tokens]
+[Task Complexity: minimal]
+[Response Detail: concise]
+[Time Budget: ultra-fast]
+
+The pants in the image are blue jeans.
+
+END_RESPONSE
+TOTAL_LATENCY: 9.632 seconds
+GENERATION_LATENCY: 9.630 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What sport is this?
+BEGIN_RESPONSE
+[20]
+END_RESPONSE
+TOTAL_LATENCY: 2.006 seconds
+GENERATION_LATENCY: 2.005 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the animal shown?
+BEGIN_RESPONSE
+[Animal: Zebras]
+END_RESPONSE
+TOTAL_LATENCY: 2.259 seconds
+GENERATION_LATENCY: 2.258 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are the zebras facing backwards?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.272 seconds
+GENERATION_LATENCY: 2.272 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are the animals facing the camera?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.912 seconds
+GENERATION_LATENCY: 1.912 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is he swimming?
+BEGIN_RESPONSE
+[He is surfing, not swimming.]
+END_RESPONSE
+TOTAL_LATENCY: 2.508 seconds
+GENERATION_LATENCY: 2.507 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the man about to fall?
+BEGIN_RESPONSE
+[Your Answer: No, the man is standing on the surfboard and appears to be balancing.]
+END_RESPONSE
+TOTAL_LATENCY: 3.862 seconds
+GENERATION_LATENCY: 3.861 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Where is the man?
+BEGIN_RESPONSE
+[20]
+END_RESPONSE
+TOTAL_LATENCY: 1.979 seconds
+GENERATION_LATENCY: 1.979 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many ways have to stop?
+BEGIN_RESPONSE
+[Your Answer: 1]
+END_RESPONSE
+TOTAL_LATENCY: 2.335 seconds
+GENERATION_LATENCY: 2.335 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: IS it sunny?
+BEGIN_RESPONSE
+[Your Answer: Yes, it is sunny.]
+END_RESPONSE
+TOTAL_LATENCY: 2.728 seconds
+GENERATION_LATENCY: 2.727 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Does she have on sunglasses?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.922 seconds
+GENERATION_LATENCY: 1.922 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this a rich neighborhood?
+BEGIN_RESPONSE
+[Your Answer: 25]
+END_RESPONSE
+TOTAL_LATENCY: 2.516 seconds
+GENERATION_LATENCY: 2.515 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What encloses the cows from leaving?
+BEGIN_RESPONSE
+[Your Answer: fences]
+END_RESPONSE
+TOTAL_LATENCY: 2.282 seconds
+GENERATION_LATENCY: 2.282 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What animal is in the picture?
+BEGIN_RESPONSE
+[Animal: cow]
+END_RESPONSE
+TOTAL_LATENCY: 2.137 seconds
+GENERATION_LATENCY: 2.136 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What kind of animals are shown?
+BEGIN_RESPONSE
+[Animal: cow]
+END_RESPONSE
+TOTAL_LATENCY: 2.141 seconds
+GENERATION_LATENCY: 2.141 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the cow resting?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.258 seconds
+GENERATION_LATENCY: 2.257 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the cow doing?
+BEGIN_RESPONSE
+[The cow is grazing on the grass.]
+END_RESPONSE
+TOTAL_LATENCY: 2.624 seconds
+GENERATION_LATENCY: 2.623 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are there any clouds in the sky?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.902 seconds
+GENERATION_LATENCY: 1.901 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color is the grass?
+BEGIN_RESPONSE
+[Your Answer: green]
+END_RESPONSE
+TOTAL_LATENCY: 2.281 seconds
+GENERATION_LATENCY: 2.280 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What kind of animals are in front of the cows?
+BEGIN_RESPONSE
+[Your Answer: 20]
+END_RESPONSE
+TOTAL_LATENCY: 2.511 seconds
+GENERATION_LATENCY: 2.511 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are these lambs?
+BEGIN_RESPONSE
+[Your Answer: 25]
+END_RESPONSE
+TOTAL_LATENCY: 2.501 seconds
+GENERATION_LATENCY: 2.500 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color is that cow?
+BEGIN_RESPONSE
+[Answer: brown]
+END_RESPONSE
+TOTAL_LATENCY: 2.153 seconds
+GENERATION_LATENCY: 2.152 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What type of tree is this?
+BEGIN_RESPONSE
+[This is a deciduous tree, likely a type of apple or cherry tree.]
+END_RESPONSE
+TOTAL_LATENCY: 3.573 seconds
+GENERATION_LATENCY: 3.572 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What room is this?
+BEGIN_RESPONSE
+[Your Answer: 20]
+END_RESPONSE
+TOTAL_LATENCY: 2.449 seconds
+GENERATION_LATENCY: 2.448 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the lamp on?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.219 seconds
+GENERATION_LATENCY: 2.218 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many windows are there?
+BEGIN_RESPONSE
+[Your Answer: 2]
+END_RESPONSE
+TOTAL_LATENCY: 2.334 seconds
+GENERATION_LATENCY: 2.333 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this room clean?
+BEGIN_RESPONSE
+[Your Answer: 30 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.555 seconds
+GENERATION_LATENCY: 2.555 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many seats are available?
+BEGIN_RESPONSE
+[Your Answer: 3]
+END_RESPONSE
+TOTAL_LATENCY: 2.334 seconds
+GENERATION_LATENCY: 2.334 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this a hotel?
+BEGIN_RESPONSE
+[Your Answer: Yes, this appears to be a hotel room]
+END_RESPONSE
+TOTAL_LATENCY: 3.145 seconds
+GENERATION_LATENCY: 3.145 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the stop light green?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.233 seconds
+GENERATION_LATENCY: 2.232 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: In how many directions does traffic flow?
+BEGIN_RESPONSE
+[Traffic flows in two directions.]
+END_RESPONSE
+TOTAL_LATENCY: 2.390 seconds
+GENERATION_LATENCY: 2.389 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are the street lights curved?
+BEGIN_RESPONSE
+[Yes, the street lights are curved.]
+END_RESPONSE
+TOTAL_LATENCY: 2.624 seconds
+GENERATION_LATENCY: 2.624 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the signal set to go?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.266 seconds
+GENERATION_LATENCY: 2.266 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is it raining?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.261 seconds
+GENERATION_LATENCY: 2.261 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many minutes are there between signals?
+BEGIN_RESPONSE
+[20]
+END_RESPONSE
+TOTAL_LATENCY: 2.044 seconds
+GENERATION_LATENCY: 2.043 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the sky cloudy?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.271 seconds
+GENERATION_LATENCY: 2.271 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What street is this?
+BEGIN_RESPONSE
+[Street: Main Street]
+END_RESPONSE
+TOTAL_LATENCY: 2.247 seconds
+GENERATION_LATENCY: 2.246 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are there snow in the ground?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.240 seconds
+GENERATION_LATENCY: 2.239 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is red?
+BEGIN_RESPONSE
+[Traffic light: red]
+END_RESPONSE
+TOTAL_LATENCY: 2.224 seconds
+GENERATION_LATENCY: 2.223 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is it time for the women to cross the street?
+BEGIN_RESPONSE
+[Your Answer: Yes, it is time for the women to cross the street.]
+END_RESPONSE
+TOTAL_LATENCY: 3.538 seconds
+GENERATION_LATENCY: 3.538 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this reality?
+BEGIN_RESPONSE
+[Your Answer: 25 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.615 seconds
+GENERATION_LATENCY: 2.614 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the green light on?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.900 seconds
+GENERATION_LATENCY: 1.899 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this a video game?
+BEGIN_RESPONSE
+[Your Answer: Yes, it appears to be a video game]
+END_RESPONSE
+TOTAL_LATENCY: 3.215 seconds
+GENERATION_LATENCY: 3.214 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What does the sign on the right say?
+BEGIN_RESPONSE
+[The sign on the right says: "Lane Divider Reserved For Emergency Vehicles Only."]
+END_RESPONSE
+TOTAL_LATENCY: 3.662 seconds
+GENERATION_LATENCY: 3.661 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the truck?
+BEGIN_RESPONSE
+[The truck is yellow.]
+END_RESPONSE
+TOTAL_LATENCY: 2.251 seconds
+GENERATION_LATENCY: 2.251 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the name on the truck?
+BEGIN_RESPONSE
+[The name on the truck is Penske.]
+END_RESPONSE
+TOTAL_LATENCY: 2.735 seconds
+GENERATION_LATENCY: 2.734 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What season is it?
+BEGIN_RESPONSE
+[Your Answer: winter]
+END_RESPONSE
+TOTAL_LATENCY: 2.266 seconds
+GENERATION_LATENCY: 2.266 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the gray blanket folded neatly?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.255 seconds
+GENERATION_LATENCY: 2.255 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What's that on the desk?
+BEGIN_RESPONSE
+[Your Answer: laptop]
+END_RESPONSE
+TOTAL_LATENCY: 2.249 seconds
+GENERATION_LATENCY: 2.248 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color are the sheets on the bottom bed?
+BEGIN_RESPONSE
+[Your Answer: blue and white]
+END_RESPONSE
+TOTAL_LATENCY: 2.489 seconds
+GENERATION_LATENCY: 2.489 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the computer charging on the bed?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.268 seconds
+GENERATION_LATENCY: 2.267 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is white on the wall?
+BEGIN_RESPONSE
+[Your Answer: radiator]
+END_RESPONSE
+TOTAL_LATENCY: 2.268 seconds
+GENERATION_LATENCY: 2.267 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What room was this picture taken in?
+BEGIN_RESPONSE
+[This picture was taken in the kitchen.]
+END_RESPONSE
+TOTAL_LATENCY: 2.623 seconds
+GENERATION_LATENCY: 2.622 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the oven door open?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.251 seconds
+GENERATION_LATENCY: 2.251 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is shiny and red?
+BEGIN_RESPONSE
+[Your Answer: red oven]
+END_RESPONSE
+TOTAL_LATENCY: 2.371 seconds
+GENERATION_LATENCY: 2.371 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this a residence or a business?
+BEGIN_RESPONSE
+[This is a business. The building has a sign indicating it is a post office, which is a business.]
+END_RESPONSE
+TOTAL_LATENCY: 4.276 seconds
+GENERATION_LATENCY: 4.276 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What's on the pole?
+BEGIN_RESPONSE
+[Answer: American flag]
+END_RESPONSE
+TOTAL_LATENCY: 2.270 seconds
+GENERATION_LATENCY: 2.270 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this in America?
+BEGIN_RESPONSE
+[This image shows a building with an American flag in front, which suggests it is in America.]
+END_RESPONSE
+TOTAL_LATENCY: 3.946 seconds
+GENERATION_LATENCY: 3.945 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What food is next to the cake?
+BEGIN_RESPONSE
+[Your Answer: 25 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.632 seconds
+GENERATION_LATENCY: 2.632 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the candle on the table lit?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.280 seconds
+GENERATION_LATENCY: 2.280 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is sticking out of the bundt cake?
+BEGIN_RESPONSE
+[Your Answer: knife]
+END_RESPONSE
+TOTAL_LATENCY: 2.280 seconds
+GENERATION_LATENCY: 2.280 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the wallpaper?
+BEGIN_RESPONSE
+[Your Answer: The wallpaper is yellow.]
+END_RESPONSE
+TOTAL_LATENCY: 2.632 seconds
+GENERATION_LATENCY: 2.631 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this modern furniture?
+BEGIN_RESPONSE
+[Your Answer: No, this is not modern furniture. It appears to be a historical or vintage-style bedroom setup.]
+END_RESPONSE
+TOTAL_LATENCY: 4.533 seconds
+GENERATION_LATENCY: 4.532 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this a doll house?
+BEGIN_RESPONSE
+[Your Answer: Yes, this appears to be a doll house.]
+END_RESPONSE
+TOTAL_LATENCY: 3.237 seconds
+GENERATION_LATENCY: 3.236 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this dog a puppy?
+BEGIN_RESPONSE
+[Yes, this dog is a puppy.]
+END_RESPONSE
+TOTAL_LATENCY: 2.617 seconds
+GENERATION_LATENCY: 2.617 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is any part of a person in the picture?
+BEGIN_RESPONSE
+[Yes, there is a person in the picture. The person is holding the dog.]
+END_RESPONSE
+TOTAL_LATENCY: 3.688 seconds
+GENERATION_LATENCY: 3.687 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the dog wet?
+BEGIN_RESPONSE
+[Yes, the dog is wet.]
+END_RESPONSE
+TOTAL_LATENCY: 2.497 seconds
+GENERATION_LATENCY: 2.497 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What type of owl is this?
+BEGIN_RESPONSE
+[This is a falcon, specifically a peregrine falcon.]
+END_RESPONSE
+TOTAL_LATENCY: 3.350 seconds
+GENERATION_LATENCY: 3.349 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color are the water containers?
+BEGIN_RESPONSE
+[Water containers are blue.]
+END_RESPONSE
+TOTAL_LATENCY: 2.277 seconds
+GENERATION_LATENCY: 2.277 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What plant is growing out of the ground?
+BEGIN_RESPONSE
+[Your Answer: grass]
+END_RESPONSE
+TOTAL_LATENCY: 2.281 seconds
+GENERATION_LATENCY: 2.280 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the color of the front of the train?
+BEGIN_RESPONSE
+[Front of the train is yellow]
+END_RESPONSE
+TOTAL_LATENCY: 2.517 seconds
+GENERATION_LATENCY: 2.516 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What does a train ride on?
+BEGIN_RESPONSE
+[Your Answer: passengers]
+END_RESPONSE
+TOTAL_LATENCY: 2.260 seconds
+GENERATION_LATENCY: 2.259 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is there another train coming?
+BEGIN_RESPONSE
+[Yes, there is another train coming.]
+END_RESPONSE
+TOTAL_LATENCY: 2.618 seconds
+GENERATION_LATENCY: 2.617 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the sidewalk cracked?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.258 seconds
+GENERATION_LATENCY: 2.257 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the man wearing on his head?
+BEGIN_RESPONSE
+[The man is wearing a hat on his head.]
+END_RESPONSE
+TOTAL_LATENCY: 2.824 seconds
+GENERATION_LATENCY: 2.823 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color are the man's clothes?
+BEGIN_RESPONSE
+[Man's clothes: black]
+END_RESPONSE
+TOTAL_LATENCY: 2.454 seconds
+GENERATION_LATENCY: 2.453 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is there a fence in the background?
+BEGIN_RESPONSE
+[Yes, there is a fence in the background]
+END_RESPONSE
+TOTAL_LATENCY: 2.797 seconds
+GENERATION_LATENCY: 2.797 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the ground wet?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.215 seconds
+GENERATION_LATENCY: 2.214 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the dog attached to?
+BEGIN_RESPONSE
+[The dog is attached to a leash.]
+END_RESPONSE
+TOTAL_LATENCY: 2.581 seconds
+GENERATION_LATENCY: 2.580 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the bench broken?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.224 seconds
+GENERATION_LATENCY: 2.224 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the sidewalk constructed from?
+BEGIN_RESPONSE
+[Your Answer: concrete]
+END_RESPONSE
+TOTAL_LATENCY: 2.252 seconds
+GENERATION_LATENCY: 2.251 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What are they holding?
+BEGIN_RESPONSE
+[They are holding a Wii remote controller.]
+END_RESPONSE
+TOTAL_LATENCY: 2.622 seconds
+GENERATION_LATENCY: 2.621 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Do they look like father and son?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.271 seconds
+GENERATION_LATENCY: 2.270 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many men are in the picture?
+BEGIN_RESPONSE
+[2 men]
+END_RESPONSE
+TOTAL_LATENCY: 2.034 seconds
+GENERATION_LATENCY: 2.033 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are the men friends?
+BEGIN_RESPONSE
+[Yes, the men appear to be friends based on their body language and the context of the image.]
+END_RESPONSE
+TOTAL_LATENCY: 3.965 seconds
+GENERATION_LATENCY: 3.964 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color shirt is the guy on the left wearing?
+BEGIN_RESPONSE
+[Answer: The guy on the left is wearing a turquoise shirt]
+END_RESPONSE
+TOTAL_LATENCY: 3.155 seconds
+GENERATION_LATENCY: 3.154 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Who is smiling?
+BEGIN_RESPONSE
+[User: Both individuals in the image are smiling.]
+END_RESPONSE
+TOTAL_LATENCY: 2.828 seconds
+GENERATION_LATENCY: 2.828 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are those cat's twins?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.250 seconds
+GENERATION_LATENCY: 2.249 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the cat?
+BEGIN_RESPONSE
+[The cat is black.]
+END_RESPONSE
+TOTAL_LATENCY: 2.242 seconds
+GENERATION_LATENCY: 2.242 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Would this creature chase a mouse?
+BEGIN_RESPONSE
+[Your Answer: Yes, this creature would chase a mouse]
+END_RESPONSE
+TOTAL_LATENCY: 3.083 seconds
+GENERATION_LATENCY: 3.082 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the cat looking into?
+BEGIN_RESPONSE
+[The cat is looking into a mirror.]
+END_RESPONSE
+TOTAL_LATENCY: 2.592 seconds
+GENERATION_LATENCY: 2.591 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the person standing on?
+BEGIN_RESPONSE
+[Your Answer: wooden floor]
+END_RESPONSE
+TOTAL_LATENCY: 2.375 seconds
+GENERATION_LATENCY: 2.374 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are they both wearing blue jeans?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.902 seconds
+GENERATION_LATENCY: 1.901 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color are his shoes?
+BEGIN_RESPONSE
+[His shoes are brown.]
+END_RESPONSE
+TOTAL_LATENCY: 2.273 seconds
+GENERATION_LATENCY: 2.273 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many white shoes?
+BEGIN_RESPONSE
+[Your Answer: 2]
+END_RESPONSE
+TOTAL_LATENCY: 2.393 seconds
+GENERATION_LATENCY: 2.392 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the leather object on the ground?
+BEGIN_RESPONSE
+[Your Answer: A suitcase]
+END_RESPONSE
+TOTAL_LATENCY: 2.397 seconds
+GENERATION_LATENCY: 2.396 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is there any luggage?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.275 seconds
+GENERATION_LATENCY: 2.275 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is on their back?
+BEGIN_RESPONSE
+[Their back is covered with wool.]
+END_RESPONSE
+TOTAL_LATENCY: 2.514 seconds
+GENERATION_LATENCY: 2.514 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many baby sheep are there?
+BEGIN_RESPONSE
+[4]
+END_RESPONSE
+TOTAL_LATENCY: 1.914 seconds
+GENERATION_LATENCY: 1.914 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Can any of those sheep fart?
+BEGIN_RESPONSE
+[Your Answer: Yes, sheep can fart]
+END_RESPONSE
+TOTAL_LATENCY: 2.746 seconds
+GENERATION_LATENCY: 2.745 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is that a petting zoo?
+BEGIN_RESPONSE
+[Your Answer: Yes, it appears to be a petting zoo with sheep and lambs]
+END_RESPONSE
+TOTAL_LATENCY: 3.815 seconds
+GENERATION_LATENCY: 3.814 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is written in green spray paint?
+BEGIN_RESPONSE
+[Your Answer: 4]
+END_RESPONSE
+TOTAL_LATENCY: 2.385 seconds
+GENERATION_LATENCY: 2.384 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the  main color of the sign?
+BEGIN_RESPONSE
+[Main color of the sign: orange]
+END_RESPONSE
+TOTAL_LATENCY: 2.634 seconds
+GENERATION_LATENCY: 2.634 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What type of sign is this?
+BEGIN_RESPONSE
+[This is a "Not a Through Street" sign]
+END_RESPONSE
+TOTAL_LATENCY: 2.936 seconds
+GENERATION_LATENCY: 2.936 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the sign suppose to say?
+BEGIN_RESPONSE
+[Your Answer: The sign says "NOT A THROUGH STREET."]
+END_RESPONSE
+TOTAL_LATENCY: 3.193 seconds
+GENERATION_LATENCY: 3.193 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the sign attached to?
+BEGIN_RESPONSE
+[The sign is attached to a wooden post.]
+END_RESPONSE
+TOTAL_LATENCY: 2.726 seconds
+GENERATION_LATENCY: 2.725 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What shape is the sign?
+BEGIN_RESPONSE
+[The sign is a diamond-shaped sign]
+END_RESPONSE
+TOTAL_LATENCY: 2.752 seconds
+GENERATION_LATENCY: 2.751 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What are you being told to do?
+BEGIN_RESPONSE
+[Your Answer: The user is being told to follow the instructions on the sign, which states "NOT A THROUGH STREET." The priority is quality, the output range is between 20 and 50 tokens, the task complexity is minimal, the response detail is concise, and the time budget is ultra-fast.]
+END_RESPONSE
+TOTAL_LATENCY: 9.345 seconds
+GENERATION_LATENCY: 9.344 seconds
+DECODE_LATENCY: 0.002 seconds
+Q: Can I drive down this road and get out the other side?
+BEGIN_RESPONSE
+[Your Answer: Yes, you can drive down this road and get out the other side.]
+END_RESPONSE
+TOTAL_LATENCY: 3.721 seconds
+GENERATION_LATENCY: 3.720 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What does the sign say?
+BEGIN_RESPONSE
+[Your Answer: The sign says "NOT A THROUGH STREET."]
+END_RESPONSE
+TOTAL_LATENCY: 3.162 seconds
+GENERATION_LATENCY: 3.161 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the man asleep?
+BEGIN_RESPONSE
+[No, the man is awake.]
+END_RESPONSE
+TOTAL_LATENCY: 2.496 seconds
+GENERATION_LATENCY: 2.496 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the TV in the image turned on?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.276 seconds
+GENERATION_LATENCY: 2.275 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is in the man's right hand?
+BEGIN_RESPONSE
+[Your Answer: a remote control]
+END_RESPONSE
+TOTAL_LATENCY: 2.502 seconds
+GENERATION_LATENCY: 2.502 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the bus' license plate number?
+BEGIN_RESPONSE
+[License plate number: 85-YJ-71]
+END_RESPONSE
+TOTAL_LATENCY: 3.269 seconds
+GENERATION_LATENCY: 3.268 seconds
+DECODE_LATENCY: 0.002 seconds
+Q: What company does this bus belong to?
+BEGIN_RESPONSE
+[Company: Connexxion]
+END_RESPONSE
+TOTAL_LATENCY: 2.451 seconds
+GENERATION_LATENCY: 2.450 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this the 268c bus?
+BEGIN_RESPONSE
+[Yes, this is the 379 bus]
+END_RESPONSE
+TOTAL_LATENCY: 2.921 seconds
+GENERATION_LATENCY: 2.921 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What number is on the back of the bus?
+BEGIN_RESPONSE
+[3798]
+END_RESPONSE
+TOTAL_LATENCY: 2.275 seconds
+GENERATION_LATENCY: 2.275 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What website is on the back of the bus?
+BEGIN_RESPONSE
+[3798 www.connexxion.nl]
+END_RESPONSE
+TOTAL_LATENCY: 3.223 seconds
+GENERATION_LATENCY: 3.222 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: IS this a carnival ride?
+BEGIN_RESPONSE
+[This is a bus. It is not a carnival ride.]
+END_RESPONSE
+TOTAL_LATENCY: 3.098 seconds
+GENERATION_LATENCY: 3.097 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many people do you see?
+BEGIN_RESPONSE
+[3 people]
+END_RESPONSE
+TOTAL_LATENCY: 1.988 seconds
+GENERATION_LATENCY: 1.988 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is blue and green?
+BEGIN_RESPONSE
+[Answer: The bus is blue and green]
+END_RESPONSE
+TOTAL_LATENCY: 2.685 seconds
+GENERATION_LATENCY: 2.684 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is it snowy?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.217 seconds
+GENERATION_LATENCY: 2.217 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the child's shadow in front of him?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.901 seconds
+GENERATION_LATENCY: 1.901 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Does this kid have any protections?
+BEGIN_RESPONSE
+[Your Answer: Yes, the child is wearing a helmet and goggles, which are protective gear.]
+END_RESPONSE
+TOTAL_LATENCY: 4.073 seconds
+GENERATION_LATENCY: 4.072 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many eyes are painted on the fire hydrant?
+BEGIN_RESPONSE
+[1]
+END_RESPONSE
+TOTAL_LATENCY: 1.911 seconds
+GENERATION_LATENCY: 1.911 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Does the fire hydrant get peed on by dogs a lot?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.241 seconds
+GENERATION_LATENCY: 2.241 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Where is the fire hydrant?
+BEGIN_RESPONSE
+[The fire hydrant is located in the center of the grassy area, near the middle of the image.]
+END_RESPONSE
+TOTAL_LATENCY: 4.080 seconds
+GENERATION_LATENCY: 4.080 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the sand wet or dry?
+BEGIN_RESPONSE
+[Your Answer: The sand is dry]
+END_RESPONSE
+TOTAL_LATENCY: 2.569 seconds
+GENERATION_LATENCY: 2.569 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the location of the photo?
+BEGIN_RESPONSE
+[Location: beach with ocean and hills in the background]
+END_RESPONSE
+TOTAL_LATENCY: 2.979 seconds
+GENERATION_LATENCY: 2.979 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the woman on a horse?
+BEGIN_RESPONSE
+[Yes, the woman is on a horse.]
+END_RESPONSE
+TOTAL_LATENCY: 2.754 seconds
+GENERATION_LATENCY: 2.754 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Should the girl be wearing a bikini top?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.278 seconds
+GENERATION_LATENCY: 2.277 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this cat brown?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.278 seconds
+GENERATION_LATENCY: 2.277 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the cat falling?
+BEGIN_RESPONSE
+[Your Answer: No, the cat is not falling]
+END_RESPONSE
+TOTAL_LATENCY: 2.990 seconds
+GENERATION_LATENCY: 2.989 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the cat doing?
+BEGIN_RESPONSE
+[Your Answer: The cat is drinking from the toilet bowl.]
+END_RESPONSE
+TOTAL_LATENCY: 3.116 seconds
+GENERATION_LATENCY: 3.116 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is it daytime?
+BEGIN_RESPONSE
+[Yes, it is daytime.]
+END_RESPONSE
+TOTAL_LATENCY: 2.386 seconds
+GENERATION_LATENCY: 2.385 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is it sunny?
+BEGIN_RESPONSE
+[Yes, it is sunny.]
+END_RESPONSE
+TOTAL_LATENCY: 2.379 seconds
+GENERATION_LATENCY: 2.379 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many trains are in this picture?
+BEGIN_RESPONSE
+[2]
+END_RESPONSE
+TOTAL_LATENCY: 1.916 seconds
+GENERATION_LATENCY: 1.916 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What does the writing on the front of the train on the left say?
+BEGIN_RESPONSE
+[The writing on the front of the train on the left says "CITYLINK".]
+END_RESPONSE
+TOTAL_LATENCY: 3.812 seconds
+GENERATION_LATENCY: 3.811 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the weather?
+BEGIN_RESPONSE
+[Your Answer: The weather is rainy]
+END_RESPONSE
+TOTAL_LATENCY: 2.593 seconds
+GENERATION_LATENCY: 2.593 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the traffic light showing?
+BEGIN_RESPONSE
+[Traffic light color: Red]
+END_RESPONSE
+TOTAL_LATENCY: 2.342 seconds
+GENERATION_LATENCY: 2.341 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Where was this photo taken?
+BEGIN_RESPONSE
+[This photo was taken in a commercial area with various shops and businesses visible in the background.]
+END_RESPONSE
+TOTAL_LATENCY: 3.791 seconds
+GENERATION_LATENCY: 3.791 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there a cow in the road?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.267 seconds
+GENERATION_LATENCY: 2.267 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Where is the nearest bank?
+BEGIN_RESPONSE
+[Your Answer: 35 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.626 seconds
+GENERATION_LATENCY: 2.625 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are these cars parked?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.264 seconds
+GENERATION_LATENCY: 2.264 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the woman wearing on her head?
+BEGIN_RESPONSE
+[The woman is wearing a black umbrella on her head.]
+END_RESPONSE
+TOTAL_LATENCY: 2.984 seconds
+GENERATION_LATENCY: 2.984 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the umbrella?
+BEGIN_RESPONSE
+[The umbrella is red.]
+END_RESPONSE
+TOTAL_LATENCY: 2.268 seconds
+GENERATION_LATENCY: 2.268 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Where are they going?
+BEGIN_RESPONSE
+[They are walking across a street during heavy rain, heading towards the shops in the background.]
+END_RESPONSE
+TOTAL_LATENCY: 3.793 seconds
+GENERATION_LATENCY: 3.792 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Where is the person standing?
+BEGIN_RESPONSE
+[User: standing in the middle of the street]
+END_RESPONSE
+TOTAL_LATENCY: 2.810 seconds
+GENERATION_LATENCY: 2.810 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the street crowded with people?
+BEGIN_RESPONSE
+[Your Answer: 20]
+END_RESPONSE
+TOTAL_LATENCY: 2.456 seconds
+GENERATION_LATENCY: 2.455 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many license plates are visible?
+BEGIN_RESPONSE
+[2]
+END_RESPONSE
+TOTAL_LATENCY: 1.865 seconds
+GENERATION_LATENCY: 1.865 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this a sculpture?
+BEGIN_RESPONSE
+[Your Answer: No, this is a street scene with people walking in the rain.]
+END_RESPONSE
+TOTAL_LATENCY: 3.696 seconds
+GENERATION_LATENCY: 3.695 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the street empty?
+BEGIN_RESPONSE
+[Your Answer: 20]
+END_RESPONSE
+TOTAL_LATENCY: 2.509 seconds
+GENERATION_LATENCY: 2.508 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What language is the advertising in?
+BEGIN_RESPONSE
+[Your Answer: Malayalam]
+END_RESPONSE
+TOTAL_LATENCY: 2.387 seconds
+GENERATION_LATENCY: 2.387 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What information is on the sign?
+BEGIN_RESPONSE
+[Sign: "Lanka Adverters"]
+END_RESPONSE
+TOTAL_LATENCY: 2.708 seconds
+GENERATION_LATENCY: 2.708 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many people are crossing the street?
+BEGIN_RESPONSE
+[1]
+END_RESPONSE
+TOTAL_LATENCY: 1.889 seconds
+GENERATION_LATENCY: 1.889 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What filter was used on this picture?
+BEGIN_RESPONSE
+[Your Answer: image processing]
+END_RESPONSE
+TOTAL_LATENCY: 2.359 seconds
+GENERATION_LATENCY: 2.359 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is it in color?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.258 seconds
+GENERATION_LATENCY: 2.257 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the person walking in white pants a man?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.277 seconds
+GENERATION_LATENCY: 2.276 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What pattern is on the umbrella?
+BEGIN_RESPONSE
+[Your Answer: The umbrella has a red and white pattern.]
+END_RESPONSE
+TOTAL_LATENCY: 3.104 seconds
+GENERATION_LATENCY: 3.104 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What kind of language is on the signs?
+BEGIN_RESPONSE
+[Your Answer: Indic language]
+END_RESPONSE
+TOTAL_LATENCY: 2.378 seconds
+GENERATION_LATENCY: 2.378 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the girl doing?
+BEGIN_RESPONSE
+[The girl is walking in the rain.]
+END_RESPONSE
+TOTAL_LATENCY: 2.562 seconds
+GENERATION_LATENCY: 2.562 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Can you park in front of Xin dian Gold and Silver Place?
+BEGIN_RESPONSE
+[Your Answer: 25 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.577 seconds
+GENERATION_LATENCY: 2.576 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What country could this be?
+BEGIN_RESPONSE
+[Country: India]
+END_RESPONSE
+TOTAL_LATENCY: 2.105 seconds
+GENERATION_LATENCY: 2.104 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the name of the business shown by the spraying water?
+BEGIN_RESPONSE
+[Your Answer: L-MING SPORTS CENTER]
+END_RESPONSE
+TOTAL_LATENCY: 3.106 seconds
+GENERATION_LATENCY: 3.105 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is advertised in the left window?
+BEGIN_RESPONSE
+[Your Answer: 20 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.623 seconds
+GENERATION_LATENCY: 2.622 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is a source of water?
+BEGIN_RESPONSE
+[Water is a source of water.]
+END_RESPONSE
+TOTAL_LATENCY: 2.509 seconds
+GENERATION_LATENCY: 2.508 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are any cars in motion?
+BEGIN_RESPONSE
+[Yes, there is at least one car in motion.]
+END_RESPONSE
+TOTAL_LATENCY: 2.992 seconds
+GENERATION_LATENCY: 2.992 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is it raining?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.269 seconds
+GENERATION_LATENCY: 2.269 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many umbrellas are there?
+BEGIN_RESPONSE
+[Your Answer: 1]
+END_RESPONSE
+TOTAL_LATENCY: 2.388 seconds
+GENERATION_LATENCY: 2.388 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What season is it?
+BEGIN_RESPONSE
+[Your Answer: It is summer]
+END_RESPONSE
+TOTAL_LATENCY: 2.487 seconds
+GENERATION_LATENCY: 2.486 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the small car?
+BEGIN_RESPONSE
+[Answer: blue]
+END_RESPONSE
+TOTAL_LATENCY: 2.124 seconds
+GENERATION_LATENCY: 2.123 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is spraying water?
+BEGIN_RESPONSE
+[Your Answer: A water sprinkler]
+END_RESPONSE
+TOTAL_LATENCY: 2.602 seconds
+GENERATION_LATENCY: 2.602 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are they making a collage?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.247 seconds
+GENERATION_LATENCY: 2.246 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many markers are there?
+BEGIN_RESPONSE
+[20]
+END_RESPONSE
+TOTAL_LATENCY: 2.002 seconds
+GENERATION_LATENCY: 2.002 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color is the scissors grip?
+BEGIN_RESPONSE
+[Your Answer: orange]
+END_RESPONSE
+TOTAL_LATENCY: 2.245 seconds
+GENERATION_LATENCY: 2.245 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How do ducks swim?
+BEGIN_RESPONSE
+[How do ducks swim? 20]
+END_RESPONSE
+TOTAL_LATENCY: 2.701 seconds
+GENERATION_LATENCY: 2.700 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the duck's bill?
+BEGIN_RESPONSE
+[The duck's bill is blue.]
+END_RESPONSE
+TOTAL_LATENCY: 2.617 seconds
+GENERATION_LATENCY: 2.616 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is it alive?
+BEGIN_RESPONSE
+[Your Answer: Yes, it is alive.]
+END_RESPONSE
+TOTAL_LATENCY: 2.747 seconds
+GENERATION_LATENCY: 2.746 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the top of the duck's head?
+BEGIN_RESPONSE
+[The top of the duck's head is blue.]
+END_RESPONSE
+TOTAL_LATENCY: 2.986 seconds
+GENERATION_LATENCY: 2.986 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is he skateboarding?
+BEGIN_RESPONSE
+[He is snowboarding, not skateboarding.]
+END_RESPONSE
+TOTAL_LATENCY: 2.724 seconds
+GENERATION_LATENCY: 2.723 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is he in midair?
+BEGIN_RESPONSE
+[He is not in midair. He is standing on a snowboard on the ground.]
+END_RESPONSE
+TOTAL_LATENCY: 3.821 seconds
+GENERATION_LATENCY: 3.820 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the person moving?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.918 seconds
+GENERATION_LATENCY: 1.918 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What sport is this man partaking in?
+BEGIN_RESPONSE
+[This man is snowboarding.]
+END_RESPONSE
+TOTAL_LATENCY: 2.381 seconds
+GENERATION_LATENCY: 2.381 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the man wearing goggles?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.889 seconds
+GENERATION_LATENCY: 1.888 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this the bathroom?
+BEGIN_RESPONSE
+[Yes, this is a bathroom.]
+END_RESPONSE
+TOTAL_LATENCY: 2.485 seconds
+GENERATION_LATENCY: 2.484 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Will the cat sleep here?
+BEGIN_RESPONSE
+[Your Answer: Yes, the cat will sleep here.]
+END_RESPONSE
+TOTAL_LATENCY: 2.946 seconds
+GENERATION_LATENCY: 2.946 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color is the cat?
+BEGIN_RESPONSE
+[The cat is black.]
+END_RESPONSE
+TOTAL_LATENCY: 2.269 seconds
+GENERATION_LATENCY: 2.269 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this in the kitchen?
+BEGIN_RESPONSE
+[Your Answer: No, this is in the bathroom.]
+END_RESPONSE
+TOTAL_LATENCY: 2.992 seconds
+GENERATION_LATENCY: 2.992 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this an albino tiger?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.277 seconds
+GENERATION_LATENCY: 2.277 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color is this animal?
+BEGIN_RESPONSE
+[Answer: black and white]
+END_RESPONSE
+TOTAL_LATENCY: 2.370 seconds
+GENERATION_LATENCY: 2.370 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the animal mammal?
+BEGIN_RESPONSE
+[Yes, the animal is a mammal.]
+END_RESPONSE
+TOTAL_LATENCY: 2.706 seconds
+GENERATION_LATENCY: 2.706 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are there tombstone's on the cake?
+BEGIN_RESPONSE
+[Yes, there are tombstone's on the cake.]
+END_RESPONSE
+TOTAL_LATENCY: 3.046 seconds
+GENERATION_LATENCY: 3.045 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What does the tombstone on the right say?
+BEGIN_RESPONSE
+[Your Answer: The tombstone on the right says "Portuna."]
+END_RESPONSE
+TOTAL_LATENCY: 3.336 seconds
+GENERATION_LATENCY: 3.336 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What kind of scene is on the cake?
+BEGIN_RESPONSE
+[Your Answer: a graveyard scene]
+END_RESPONSE
+TOTAL_LATENCY: 2.642 seconds
+GENERATION_LATENCY: 2.641 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is that a vegetarian meal?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.273 seconds
+GENERATION_LATENCY: 2.272 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this plate almost empty?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.239 seconds
+GENERATION_LATENCY: 2.238 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What meal of the day is this?
+BEGIN_RESPONSE
+[Your Answer: lunch]
+END_RESPONSE
+TOTAL_LATENCY: 2.225 seconds
+GENERATION_LATENCY: 2.225 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is it fruit or vegetables inside of the bowl?
+BEGIN_RESPONSE
+[Your Answer: 20]
+END_RESPONSE
+TOTAL_LATENCY: 2.463 seconds
+GENERATION_LATENCY: 2.462 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there bread on the plate?
+BEGIN_RESPONSE
+[Yes, there is bread on the plate.]
+END_RESPONSE
+TOTAL_LATENCY: 2.705 seconds
+GENERATION_LATENCY: 2.705 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What popular Chinese dish is this?
+BEGIN_RESPONSE
+[Your Answer: 25 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.632 seconds
+GENERATION_LATENCY: 2.631 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Does the dish contain pasta?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.921 seconds
+GENERATION_LATENCY: 1.921 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this a restaurant or home cooked meal?
+BEGIN_RESPONSE
+[Your Answer: home cooked meal]
+END_RESPONSE
+TOTAL_LATENCY: 2.521 seconds
+GENERATION_LATENCY: 2.520 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What kind of protein is on the plate?
+BEGIN_RESPONSE
+[User_Query: What kind of protein is on the plate?
+Priority: quality
+Output_Range: between 20 and 50 tokens
+Task_Complexity: minimal
+Response_Detail: concise
+Time_Budget: ultra-fast]
+The protein on the plate is chicken.
+END_RESPONSE
+TOTAL_LATENCY: 8.818 seconds
+GENERATION_LATENCY: 8.817 seconds
+DECODE_LATENCY: 0.002 seconds
+Q: Where can you get something to drink here?
+BEGIN_RESPONSE
+[20 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.135 seconds
+GENERATION_LATENCY: 2.135 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What kind of shop is this?
+BEGIN_RESPONSE
+[This is a restaurant that serves hamburgers and ice cream.]
+END_RESPONSE
+TOTAL_LATENCY: 3.229 seconds
+GENERATION_LATENCY: 3.228 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What brand is advertised at right?
+BEGIN_RESPONSE
+[Rocket's Grill]
+END_RESPONSE
+TOTAL_LATENCY: 2.390 seconds
+GENERATION_LATENCY: 2.389 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Where is the light coming from?
+BEGIN_RESPONSE
+[Light is coming from Rocket's Grille sign]
+END_RESPONSE
+TOTAL_LATENCY: 2.951 seconds
+GENERATION_LATENCY: 2.951 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What type of beverage is sold here?
+BEGIN_RESPONSE
+[Your Answer: Rocket's Grille sells beverages]
+END_RESPONSE
+TOTAL_LATENCY: 2.932 seconds
+GENERATION_LATENCY: 2.931 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the middle light display depicting?
+BEGIN_RESPONSE
+[Middle light display depicting: a neon ice cream cone]
+END_RESPONSE
+TOTAL_LATENCY: 2.925 seconds
+GENERATION_LATENCY: 2.924 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is it dark outside?
+BEGIN_RESPONSE
+[Your Answer: Yes, it is dark outside.]
+END_RESPONSE
+TOTAL_LATENCY: 2.841 seconds
+GENERATION_LATENCY: 2.841 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many colors are in the neon sign?
+BEGIN_RESPONSE
+[2]
+END_RESPONSE
+TOTAL_LATENCY: 1.911 seconds
+GENERATION_LATENCY: 1.910 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this a toy store?
+BEGIN_RESPONSE
+[Your Answer: No, it is a restaurant]
+END_RESPONSE
+TOTAL_LATENCY: 2.857 seconds
+GENERATION_LATENCY: 2.856 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is it a cocktail bar in the scene?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.261 seconds
+GENERATION_LATENCY: 2.261 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this a commercial airline?
+BEGIN_RESPONSE
+[Yes, this is a commercial airline. It is an aircraft operated by a commercial airline company.]
+END_RESPONSE
+TOTAL_LATENCY: 3.939 seconds
+GENERATION_LATENCY: 3.938 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are there clouds in the sky?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.264 seconds
+GENERATION_LATENCY: 2.263 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Where is this aircraft going?
+BEGIN_RESPONSE
+[Your Answer: The aircraft is heading towards its destination, which is likely a major airport.]
+END_RESPONSE
+TOTAL_LATENCY: 3.704 seconds
+GENERATION_LATENCY: 3.703 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many propellers does this plane have?
+BEGIN_RESPONSE
+[2]
+END_RESPONSE
+TOTAL_LATENCY: 1.719 seconds
+GENERATION_LATENCY: 1.718 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are these passenger planes?
+BEGIN_RESPONSE
+[Yes, these are passenger planes.]
+END_RESPONSE
+TOTAL_LATENCY: 2.242 seconds
+GENERATION_LATENCY: 2.241 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this a commercial airliner?
+BEGIN_RESPONSE
+[Yes, this is a commercial airliner.]
+END_RESPONSE
+TOTAL_LATENCY: 2.452 seconds
+GENERATION_LATENCY: 2.452 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Was the plane about to land?
+BEGIN_RESPONSE
+[Your Answer: Yes, the plane was about to land]
+END_RESPONSE
+TOTAL_LATENCY: 2.775 seconds
+GENERATION_LATENCY: 2.774 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this a commercial jet?
+BEGIN_RESPONSE
+[Yes, this is a commercial jet. It has a distinctive design and visible airline branding.]
+END_RESPONSE
+TOTAL_LATENCY: 3.413 seconds
+GENERATION_LATENCY: 3.412 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the landing gear down?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.708 seconds
+GENERATION_LATENCY: 1.708 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the landing gear exposed?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.710 seconds
+GENERATION_LATENCY: 1.710 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color is the back wing on the plane?
+BEGIN_RESPONSE
+[The back wing of the plane is blue.]
+END_RESPONSE
+TOTAL_LATENCY: 2.459 seconds
+GENERATION_LATENCY: 2.458 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What model aircraft is this?
+BEGIN_RESPONSE
+[This is a large commercial jet aircraft, likely a Boeing 747.]
+END_RESPONSE
+TOTAL_LATENCY: 3.195 seconds
+GENERATION_LATENCY: 3.194 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are there propellers on the plane?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.027 seconds
+GENERATION_LATENCY: 2.026 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Does the plane have a propeller?
+BEGIN_RESPONSE
+[No, the plane does not have a propeller.]
+END_RESPONSE
+TOTAL_LATENCY: 2.563 seconds
+GENERATION_LATENCY: 2.563 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this plane landing?
+BEGIN_RESPONSE
+[Your Answer: Yes, the plane is landing]
+END_RESPONSE
+TOTAL_LATENCY: 2.556 seconds
+GENERATION_LATENCY: 2.555 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Does the plane have windows?
+BEGIN_RESPONSE
+[Yes, the plane has windows.]
+END_RESPONSE
+TOTAL_LATENCY: 2.242 seconds
+GENERATION_LATENCY: 2.242 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the national origin of the airplane in this picture?
+BEGIN_RESPONSE
+[The airplane in the picture is from Lufthansa, a German airline.]
+END_RESPONSE
+TOTAL_LATENCY: 3.229 seconds
+GENERATION_LATENCY: 3.228 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the plane ready to land?
+BEGIN_RESPONSE
+[Yes, the plane is ready to land.]
+END_RESPONSE
+TOTAL_LATENCY: 2.460 seconds
+GENERATION_LATENCY: 2.459 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this bus parked?
+BEGIN_RESPONSE
+[Yes, the bus is parked.]
+END_RESPONSE
+TOTAL_LATENCY: 2.239 seconds
+GENERATION_LATENCY: 2.239 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many levels does this bus have?
+BEGIN_RESPONSE
+[This bus has 2 levels]
+END_RESPONSE
+TOTAL_LATENCY: 2.240 seconds
+GENERATION_LATENCY: 2.239 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the bus in service?
+BEGIN_RESPONSE
+[Yes, the bus is in service.]
+END_RESPONSE
+TOTAL_LATENCY: 2.344 seconds
+GENERATION_LATENCY: 2.344 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What number is on the front of the blue bus?
+BEGIN_RESPONSE
+[6]
+END_RESPONSE
+TOTAL_LATENCY: 1.708 seconds
+GENERATION_LATENCY: 1.708 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Why is the bus "sorry?"?
+BEGIN_RESPONSE
+[The bus is sorry because it is part of a campaign to raise awareness about smoking, as indicated by the "Sorry Smoking" text and the associated health message.]
+END_RESPONSE
+TOTAL_LATENCY: 4.904 seconds
+GENERATION_LATENCY: 4.903 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the yellow bus vintage or modern?
+BEGIN_RESPONSE
+[The yellow bus is modern.]
+END_RESPONSE
+TOTAL_LATENCY: 2.138 seconds
+GENERATION_LATENCY: 2.137 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is this bus?
+BEGIN_RESPONSE
+[This bus is blue.]
+END_RESPONSE
+TOTAL_LATENCY: 2.027 seconds
+GENERATION_LATENCY: 2.026 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the number on the front of the bus?
+BEGIN_RESPONSE
+[6]
+END_RESPONSE
+TOTAL_LATENCY: 1.723 seconds
+GENERATION_LATENCY: 1.722 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What room is this?
+BEGIN_RESPONSE
+[This is a kitchen.]
+END_RESPONSE
+TOTAL_LATENCY: 2.024 seconds
+GENERATION_LATENCY: 2.024 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Did a man or a woman decorate this room?
+BEGIN_RESPONSE
+[Your Answer: a woman]
+END_RESPONSE
+TOTAL_LATENCY: 2.138 seconds
+GENERATION_LATENCY: 2.137 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What time is it?
+BEGIN_RESPONSE
+[Your Answer: 10]
+END_RESPONSE
+TOTAL_LATENCY: 2.242 seconds
+GENERATION_LATENCY: 2.242 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are there electrical outlets in the photo?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.028 seconds
+GENERATION_LATENCY: 2.028 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the man touching the water?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.706 seconds
+GENERATION_LATENCY: 1.705 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Who seems like they will reach the beach first?
+BEGIN_RESPONSE
+[Your Answer: The surfer]
+END_RESPONSE
+TOTAL_LATENCY: 2.243 seconds
+GENERATION_LATENCY: 2.243 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Why is the surfer's body in that position?
+BEGIN_RESPONSE
+[The surfer's body is in that position to maintain balance and control while riding the wave.]
+END_RESPONSE
+TOTAL_LATENCY: 3.624 seconds
+GENERATION_LATENCY: 3.623 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many fins are on the surfboard?
+BEGIN_RESPONSE
+[1]
+END_RESPONSE
+TOTAL_LATENCY: 1.713 seconds
+GENERATION_LATENCY: 1.712 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color are the surfboards?
+BEGIN_RESPONSE
+[Surfboards: white and green]
+END_RESPONSE
+TOTAL_LATENCY: 2.345 seconds
+GENERATION_LATENCY: 2.344 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this surfer wearing neon colors?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.709 seconds
+GENERATION_LATENCY: 1.709 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are they paddling?
+BEGIN_RESPONSE
+[Yes, they are paddling.]
+END_RESPONSE
+TOTAL_LATENCY: 2.138 seconds
+GENERATION_LATENCY: 2.138 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is it night time?
+BEGIN_RESPONSE
+[Your Answer: Yes, it is night time.]
+END_RESPONSE
+TOTAL_LATENCY: 2.558 seconds
+GENERATION_LATENCY: 2.558 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color is the water?
+BEGIN_RESPONSE
+[The water is blue.]
+END_RESPONSE
+TOTAL_LATENCY: 2.032 seconds
+GENERATION_LATENCY: 2.031 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are they surfing at night?
+BEGIN_RESPONSE
+[Your Answer: No, they are surfing during the day.]
+END_RESPONSE
+TOTAL_LATENCY: 2.777 seconds
+GENERATION_LATENCY: 2.777 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the water clear?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.028 seconds
+GENERATION_LATENCY: 2.028 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this a brick wall?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.025 seconds
+GENERATION_LATENCY: 2.025 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this considered floor to ceiling tile?
+BEGIN_RESPONSE
+[Your Answer: 25]
+END_RESPONSE
+TOTAL_LATENCY: 2.243 seconds
+GENERATION_LATENCY: 2.242 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color is the floor?
+BEGIN_RESPONSE
+[Your Answer: gray]
+END_RESPONSE
+TOTAL_LATENCY: 2.027 seconds
+GENERATION_LATENCY: 2.026 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many metal chairs are there?
+BEGIN_RESPONSE
+[Your Answer: 2]
+END_RESPONSE
+TOTAL_LATENCY: 2.138 seconds
+GENERATION_LATENCY: 2.138 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the bathroom clean?
+BEGIN_RESPONSE
+[Your Answer: 40 tokens]
+END_RESPONSE
+TOTAL_LATENCY: 2.362 seconds
+GENERATION_LATENCY: 2.361 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the room well lit?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.033 seconds
+GENERATION_LATENCY: 2.032 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Why is there a toilet?
+BEGIN_RESPONSE
+[Your Answer: The room appears to be a meeting or conference room with a toilet installed for accessibility purposes. The toilet is placed in a corner, likely to minimize disruption to the main space.]
+END_RESPONSE
+TOTAL_LATENCY: 5.547 seconds
+GENERATION_LATENCY: 5.546 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What website is being shown on the green tarp?
+BEGIN_RESPONSE
+[Your Answer: Orange Sport]
+END_RESPONSE
+TOTAL_LATENCY: 2.136 seconds
+GENERATION_LATENCY: 2.135 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the wristband?
+BEGIN_RESPONSE
+[The wristband is a white sweatband.]
+END_RESPONSE
+TOTAL_LATENCY: 2.455 seconds
+GENERATION_LATENCY: 2.454 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is in the boys hands?
+BEGIN_RESPONSE
+[Answer: The boy is holding a tennis racket]
+END_RESPONSE
+TOTAL_LATENCY: 2.579 seconds
+GENERATION_LATENCY: 2.578 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the man's shirt?
+BEGIN_RESPONSE
+[The man's shirt is red.]
+END_RESPONSE
+TOTAL_LATENCY: 2.362 seconds
+GENERATION_LATENCY: 2.361 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the swing?
+BEGIN_RESPONSE
+[Your Answer: The swing is a motion used in sports to hit a ball with a racket.]
+END_RESPONSE
+TOTAL_LATENCY: 3.539 seconds
+GENERATION_LATENCY: 3.538 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What game is he playing?
+BEGIN_RESPONSE
+[He is playing tennis.]
+END_RESPONSE
+TOTAL_LATENCY: 2.042 seconds
+GENERATION_LATENCY: 2.041 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What game is being played?
+BEGIN_RESPONSE
+[User Query: What game is being played?]
+[Priority: quality]
+[Output Range: between 20 and 50 tokens]
+[Task Complexity: minimal]
+[Response Detail: concise]
+[Time Budget: ultra-fast]
+
+Tennis
+
+END_RESPONSE
+TOTAL_LATENCY: 7.793 seconds
+GENERATION_LATENCY: 7.792 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Which hand is the player holding the racket in?
+BEGIN_RESPONSE
+[The player is holding the racket in their right hand.]
+END_RESPONSE
+TOTAL_LATENCY: 2.670 seconds
+GENERATION_LATENCY: 2.670 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color is the man's shoes?
+BEGIN_RESPONSE
+[User_Query: What color are the man's shoes?
+Priority: quality
+Output_Range: between 20 and 50 tokens
+Task_Complexity: minimal
+Response_Detail: concise
+Time_Budget: ultra-fast]
+The man's shoes are white.
+END_RESPONSE
+TOTAL_LATENCY: 8.005 seconds
+GENERATION_LATENCY: 8.004 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the man's name?
+BEGIN_RESPONSE
+[The man's name is Rafael Nadal.]
+END_RESPONSE
+TOTAL_LATENCY: 2.445 seconds
+GENERATION_LATENCY: 2.444 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Why is the man standing in the middle of the road?
+BEGIN_RESPONSE
+[The man is standing in the middle of the road to control traffic, likely for road construction or maintenance purposes.]
+END_RESPONSE
+TOTAL_LATENCY: 3.840 seconds
+GENERATION_LATENCY: 3.839 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the man's shirt?
+BEGIN_RESPONSE
+[The man's shirt is yellow.]
+END_RESPONSE
+TOTAL_LATENCY: 2.344 seconds
+GENERATION_LATENCY: 2.344 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this a busy road?
+BEGIN_RESPONSE
+[Your Answer: Yes, it appears to be a busy road]
+END_RESPONSE
+TOTAL_LATENCY: 2.880 seconds
+GENERATION_LATENCY: 2.879 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the blanket on the bed?
+BEGIN_RESPONSE
+[Your Answer: blue]
+END_RESPONSE
+TOTAL_LATENCY: 2.033 seconds
+GENERATION_LATENCY: 2.033 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are there high heel shoes in the photo?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.031 seconds
+GENERATION_LATENCY: 2.030 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Does the bed look messy?
+BEGIN_RESPONSE
+[Your Answer: Yes, the bed looks messy]
+END_RESPONSE
+TOTAL_LATENCY: 2.562 seconds
+GENERATION_LATENCY: 2.561 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is around her neck?
+BEGIN_RESPONSE
+[Her neck is around a black apron]
+END_RESPONSE
+TOTAL_LATENCY: 2.349 seconds
+GENERATION_LATENCY: 2.348 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color are the short shorts?
+BEGIN_RESPONSE
+[Short shorts are pink.]
+END_RESPONSE
+TOTAL_LATENCY: 2.031 seconds
+GENERATION_LATENCY: 2.031 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What are these women doing?
+BEGIN_RESPONSE
+[These women are cooking.]
+END_RESPONSE
+TOTAL_LATENCY: 2.031 seconds
+GENERATION_LATENCY: 2.031 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the woman holding?
+BEGIN_RESPONSE
+[The woman is holding a spatula.]
+END_RESPONSE
+TOTAL_LATENCY: 2.348 seconds
+GENERATION_LATENCY: 2.347 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is that woman thin?
+BEGIN_RESPONSE
+[Yes, the woman appears to be thin.]
+END_RESPONSE
+TOTAL_LATENCY: 2.456 seconds
+GENERATION_LATENCY: 2.456 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: How many pizza boxes are there?
+BEGIN_RESPONSE
+[20]
+END_RESPONSE
+TOTAL_LATENCY: 1.811 seconds
+GENERATION_LATENCY: 1.811 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are there wine glasses on the table?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.032 seconds
+GENERATION_LATENCY: 2.032 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What are the people doing?
+BEGIN_RESPONSE
+[The people are eating pizza and drinking beverages.]
+END_RESPONSE
+TOTAL_LATENCY: 2.457 seconds
+GENERATION_LATENCY: 2.456 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is in the old man's' mouth?
+BEGIN_RESPONSE
+[The old man is holding a slice of pizza in his mouth.]
+END_RESPONSE
+TOTAL_LATENCY: 2.877 seconds
+GENERATION_LATENCY: 2.877 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is dessert on the table?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.032 seconds
+GENERATION_LATENCY: 2.032 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What type of restaurant is this?
+BEGIN_RESPONSE
+[This is a pizza restaurant.]
+END_RESPONSE
+TOTAL_LATENCY: 2.138 seconds
+GENERATION_LATENCY: 2.137 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is there more than one pizza?
+BEGIN_RESPONSE
+[Yes, there are multiple pizzas visible in the image.]
+END_RESPONSE
+TOTAL_LATENCY: 2.666 seconds
+GENERATION_LATENCY: 2.665 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is this a baby shower?
+BEGIN_RESPONSE
+[Your Answer: No, this is not a baby shower. It appears to be a gathering with food.]
+END_RESPONSE
+TOTAL_LATENCY: 3.728 seconds
+GENERATION_LATENCY: 3.728 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is on display?
+BEGIN_RESPONSE
+[What is on display? pizza]
+END_RESPONSE
+TOTAL_LATENCY: 2.237 seconds
+GENERATION_LATENCY: 2.237 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What types of foods are there?
+BEGIN_RESPONSE
+[Pizza, beverages, salads]
+END_RESPONSE
+TOTAL_LATENCY: 2.240 seconds
+GENERATION_LATENCY: 2.240 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are these donuts?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.023 seconds
+GENERATION_LATENCY: 2.023 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is there enough pizza to feed everyone?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.025 seconds
+GENERATION_LATENCY: 2.024 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are they having a bake sale?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.028 seconds
+GENERATION_LATENCY: 2.028 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are these items for sale?
+BEGIN_RESPONSE
+[Your Answer: No, these items are not for sale.]
+END_RESPONSE
+TOTAL_LATENCY: 2.771 seconds
+GENERATION_LATENCY: 2.771 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are there more than five people in this photo?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.714 seconds
+GENERATION_LATENCY: 1.714 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What is the man in the orange hat carrying on his back?
+BEGIN_RESPONSE
+[The man in the orange hat is carrying a red backpack.]
+END_RESPONSE
+TOTAL_LATENCY: 2.781 seconds
+GENERATION_LATENCY: 2.780 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are they selling any chips?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.027 seconds
+GENERATION_LATENCY: 2.027 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What color suit is this person wearing?
+BEGIN_RESPONSE
+[User_Query: What color suit is this person wearing?
+Priority: quality
+Output_Range: between 20 and 50 tokens
+Task_Complexity: minimal
+Response_Detail: concise
+Time_Budget: ultra-fast]
+The person is wearing a black suit.
+END_RESPONSE
+TOTAL_LATENCY: 7.892 seconds
+GENERATION_LATENCY: 7.890 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the lettering on the business sign?
+BEGIN_RESPONSE
+[The lettering on the business sign is red.]
+END_RESPONSE
+TOTAL_LATENCY: 2.449 seconds
+GENERATION_LATENCY: 2.449 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is it in America?
+BEGIN_RESPONSE
+[Your Answer: Yes, it is in America]
+END_RESPONSE
+TOTAL_LATENCY: 2.556 seconds
+GENERATION_LATENCY: 2.555 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are they on the street?
+BEGIN_RESPONSE
+[They are on the street.]
+END_RESPONSE
+TOTAL_LATENCY: 2.138 seconds
+GENERATION_LATENCY: 2.138 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is it raining?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.027 seconds
+GENERATION_LATENCY: 2.026 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this a good area to live?
+BEGIN_RESPONSE
+[Your Answer: Yes, it appears to be a good area to live based on the visible landscape and infrastructure.]
+END_RESPONSE
+TOTAL_LATENCY: 3.836 seconds
+GENERATION_LATENCY: 3.835 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there a helicopter in the sky?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.023 seconds
+GENERATION_LATENCY: 2.023 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Who does the plane belong to?
+BEGIN_RESPONSE
+[The plane belongs to a private owner.]
+END_RESPONSE
+TOTAL_LATENCY: 2.347 seconds
+GENERATION_LATENCY: 2.346 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How is the small plane propelled?
+BEGIN_RESPONSE
+[Small plane propelled by propeller]
+END_RESPONSE
+TOTAL_LATENCY: 2.241 seconds
+GENERATION_LATENCY: 2.241 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many engines does the airplane have?
+BEGIN_RESPONSE
+[20]
+END_RESPONSE
+TOTAL_LATENCY: 1.819 seconds
+GENERATION_LATENCY: 1.819 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many people are there?
+BEGIN_RESPONSE
+[There are 6 people in the image.]
+END_RESPONSE
+TOTAL_LATENCY: 2.453 seconds
+GENERATION_LATENCY: 2.452 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Were the skis waxed?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.024 seconds
+GENERATION_LATENCY: 2.024 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Has it been snowing?
+BEGIN_RESPONSE
+[Has it been snowing? 20]
+END_RESPONSE
+TOTAL_LATENCY: 2.552 seconds
+GENERATION_LATENCY: 2.551 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are these people by a cross?
+BEGIN_RESPONSE
+[Yes, they are by a cross]
+END_RESPONSE
+TOTAL_LATENCY: 2.344 seconds
+GENERATION_LATENCY: 2.344 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What type of material is the bear on?
+BEGIN_RESPONSE
+[Your Answer: The bear is made of soft, plush material]
+END_RESPONSE
+TOTAL_LATENCY: 2.878 seconds
+GENERATION_LATENCY: 2.877 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the bear wearing a scarf?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.715 seconds
+GENERATION_LATENCY: 1.714 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this a real bear?
+BEGIN_RESPONSE
+[Your Answer: 25]
+END_RESPONSE
+TOTAL_LATENCY: 2.238 seconds
+GENERATION_LATENCY: 2.238 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: What does the shop with the blue awning sell?
+BEGIN_RESPONSE
+[The shop with the blue awning sells: books]
+END_RESPONSE
+TOTAL_LATENCY: 2.663 seconds
+GENERATION_LATENCY: 2.663 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the train in motion?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.026 seconds
+GENERATION_LATENCY: 2.026 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this an office park?
+BEGIN_RESPONSE
+[Your Answer: Yes, it appears to be an office park]
+END_RESPONSE
+TOTAL_LATENCY: 2.871 seconds
+GENERATION_LATENCY: 2.870 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is the street light on?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.030 seconds
+GENERATION_LATENCY: 2.029 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the sidewalk tile or concrete?
+BEGIN_RESPONSE
+[Concrete]
+END_RESPONSE
+TOTAL_LATENCY: 1.706 seconds
+GENERATION_LATENCY: 1.706 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the building one story tall?
+BEGIN_RESPONSE
+[Yes]
+END_RESPONSE
+TOTAL_LATENCY: 1.709 seconds
+GENERATION_LATENCY: 1.709 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Does the train stop close to the building?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.028 seconds
+GENERATION_LATENCY: 2.028 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is there a bike on the platform?
+BEGIN_RESPONSE
+[Your Answer: No]
+END_RESPONSE
+TOTAL_LATENCY: 2.029 seconds
+GENERATION_LATENCY: 2.029 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Why is the table in the middle of the road?
+BEGIN_RESPONSE
+[Your Answer: The table in the middle of the road is likely there for a temporary event or as part of a street art installation.]
+END_RESPONSE
+TOTAL_LATENCY: 4.372 seconds
+GENERATION_LATENCY: 4.371 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What newspaper could you buy as you pass by on the sidewalk?
+BEGIN_RESPONSE
+[Your Answer: The Washington Post]
+END_RESPONSE
+TOTAL_LATENCY: 2.248 seconds
+GENERATION_LATENCY: 2.247 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is at the end of the sidewalk?
+BEGIN_RESPONSE
+[Your Answer: A train station]
+END_RESPONSE
+TOTAL_LATENCY: 2.241 seconds
+GENERATION_LATENCY: 2.240 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: How many people are on the sidewalk?
+BEGIN_RESPONSE
+[Your Answer: 2]
+END_RESPONSE
+TOTAL_LATENCY: 2.137 seconds
+GENERATION_LATENCY: 2.136 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is there a cart on the sidewalk?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.030 seconds
+GENERATION_LATENCY: 2.030 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is this a shopping mall?
+BEGIN_RESPONSE
+[Your Answer: No, this is a train station]
+END_RESPONSE
+TOTAL_LATENCY: 2.665 seconds
+GENERATION_LATENCY: 2.664 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Does the picture show a driveway?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.034 seconds
+GENERATION_LATENCY: 2.033 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are there any bikes in this photo?
+BEGIN_RESPONSE
+[No, there are no bikes in this photo.]
+END_RESPONSE
+TOTAL_LATENCY: 2.567 seconds
+GENERATION_LATENCY: 2.566 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What color is the train?
+BEGIN_RESPONSE
+[The train is white with red and blue stripes.]
+END_RESPONSE
+TOTAL_LATENCY: 2.557 seconds
+GENERATION_LATENCY: 2.557 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Are there people in the truck?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.025 seconds
+GENERATION_LATENCY: 2.025 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is the sun bright?
+BEGIN_RESPONSE
+[Your Answer: Yes]
+END_RESPONSE
+TOTAL_LATENCY: 2.026 seconds
+GENERATION_LATENCY: 2.025 seconds
+DECODE_LATENCY: 0.000 seconds
+Q: Is there anyone riding a bicycle?
+BEGIN_RESPONSE
+[No, there is no one riding a bicycle in the image.]
+END_RESPONSE
+TOTAL_LATENCY: 2.877 seconds
+GENERATION_LATENCY: 2.876 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Are there 2 bikes near the pole?
+BEGIN_RESPONSE
+[Your Answer: 1]
+END_RESPONSE
+TOTAL_LATENCY: 2.155 seconds
+GENERATION_LATENCY: 2.154 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: Is it safe to cross the street?
+BEGIN_RESPONSE
+[Your Answer: Yes, it is safe to cross the street.]
+END_RESPONSE
+TOTAL_LATENCY: 2.880 seconds
+GENERATION_LATENCY: 2.880 seconds
+DECODE_LATENCY: 0.001 seconds
+Q: What is the sidewalk made of?
+BEGIN_RESPONSE
+[Your Answer: concrete]
+END_RESPONSE
+TOTAL_LATENCY: 2.039 seconds
+GENERATION_LATENCY: 2.038 seconds
+DECODE_LATENCY: 0.001 seconds
