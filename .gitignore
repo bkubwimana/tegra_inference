@@ -7,6 +7,19 @@
 *.py[cod]
 *$py.class
 
+Archives
+archive 
+archive/*
+archive/
+evaluation_results/
+generated_samples/
+charts/
+charts*
+testa/
+
+*.txt
+*.csv
+
 # C extensions
 *.so
 
@@ -31,6 +44,8 @@ share/python-wheels/
 *.egg
 MANIFEST
 *.whl
+*.json
+*.jsonl
 
 # PyInstaller
 #  Usually these files are written by a python script from a template

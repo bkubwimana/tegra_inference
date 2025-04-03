@@ -1,11 +1,10 @@
-#### language: python
-# filepath: /mnt/packages/models/deepseek/janus/tests/test_engine.py
 import os
 import json
 import unittest
 import random
 import sys
 import logging
+from pathlib import Path
 
 # Configure logging to display time and log level
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s] %(levelname)s: %(message)s')
@@ -15,6 +14,8 @@ sys.path.append(src_path)
 from prompt_engine import PromptEngine
 from output_processor import format_response, save_output_to_file
 
+# Import loadset functions
+from loadset import download_and_extract, load_vqa_subset
 
 class TestPromptEngine(unittest.TestCase):
 
@@ -22,15 +23,16 @@ class TestPromptEngine(unittest.TestCase):
         logging.info("Initializing PromptEngine for tests.")
         self.prompt_engine = PromptEngine()
         self.vqa_counter = 0
-        # Load VQA dataset (adjust path as needed)
-        vqa_data_path = os.path.join(os.path.dirname(__file__), "..", "10_percent_vqa.json")
-        if os.path.exists(vqa_data_path):
-            logging.info(f"Loading VQA data from {vqa_data_path}")
-            with open(vqa_data_path, 'r') as f:
-                self.vqa_data = json.load(f)
-        else:
-            logging.info("No VQA data found.")
-            self.vqa_data = []
+        
+        # Load VQA dataset using loadset.py functions
+        try:
+            logging.info("Loading VQA dataset from loadset module...")
+            download_and_extract()  # Ensure data is downloaded
+            self.vqa_examples = load_vqa_subset()
+            logging.info(f"Loaded {len(self.vqa_examples)} VQA examples")
+        except Exception as e:
+            logging.error(f"Error loading VQA dataset: {e}")
+            self.vqa_examples = []
 
     def test_dynamic_variations(self):
         variations = [
@@ -84,6 +86,7 @@ class TestPromptEngine(unittest.TestCase):
                 token_count = output_json["token_count"]
                 # self.assertGreaterEqual(token_count, params["min_tokens"])
                 # self.assertLessEqual(token_count, params["max_tokens"])
+
     def random_params(self, query):
         return {
             "max_tokens": 70,
@@ -93,6 +96,7 @@ class TestPromptEngine(unittest.TestCase):
             "response_detail": random.choice(["concise", "detailed"]),
             "time_budget": random.choice(["ultra-fast", "fast", "normal"])
         }
+
     def generate_all_prompt_configs(self):
         #2 x 3 x 2 x 3 factorial design
         priorities = ["quality", "speed"]
@@ -117,92 +121,98 @@ class TestPromptEngine(unittest.TestCase):
 
     def test_vqa_dataset_hybrid(self):
         """
-        Hybrid between and within subjects:
+        Hybrid between and within subjects using the VQA dataset loaded through loadset.py.
         - For a small subset of questions, use all prompt configs (within-subject).
         - For the rest, use one random prompt config (between-subject).
         """
-        if not self.vqa_data:
+        if not self.vqa_examples:
             self.skipTest("No VQA data available")
         
-        # 1. Collect all (image, question) pairs.
-        all_pairs = []
-        current_image = None
-        queries = []
+        # 1. Collect all (image, question, question_id) tuples
+        all_examples = []
+        for example in self.vqa_examples:
+            image_path = example['image_file_path']
+            question = example['question']
+            question_id = example['question_id']
+            all_examples.append((image_path, question, question_id))
         
-        for item in self.vqa_data:
-            if item == "reset":
-                # End of block: store the (image, question) pairs
-                if current_image and queries:
-                    for q in queries:
-                        all_pairs.append((current_image, q))
-                # Reset for next block
-                current_image = None
-                queries = []
-            else:
-                # Check if item is path-like => treat as an image
-                if item.startswith("/") or "\\" in item or (":" in item):
-                    if os.path.exists(item):
-                        current_image = item
-                else:
-                    # Otherwise it's a question
-                    queries.append(item)
+        logging.info(f"Total examples collected: {len(all_examples)}")
         
-        # Edge case: if the last block never hit "reset"
-        if current_image and queries:
-            for q in queries:
-                all_pairs.append((current_image, q))
+        # 2. Split into within-subject and between-subject sets
+        # Using a smaller set for within-subject since it multiplies with all prompt configurations
+        within_subject_examples = all_examples[:20]  # Reduced from 100 to 20 for manageable testing
+        between_subject_examples = all_examples[20:100]
         
-        logging.info(f"Total (image, question) pairs collected: {len(all_pairs)}")
+        logging.info(f"Within-subject subset size: {len(within_subject_examples)}")
+        logging.info(f"Between-subject subset size: {len(between_subject_examples)}")
         
-        # 2. Split into within-subject vs. between-subject sets.
-        NUM_WITHIN_SUBJECT = 50
-        random.shuffle(all_pairs)
-        
-        within_subject_pairs = all_pairs[:NUM_WITHIN_SUBJECT]
-        between_subject_pairs = all_pairs[NUM_WITHIN_SUBJECT:201]
-        
-        logging.info(f"Within-subject subset size: {len(within_subject_pairs)}")
-        logging.info(f"Between-subject subset size: {len(between_subject_pairs)}")
-        
-        # 3. prompt configurations for the within-subject test.
+        # 3. Generate prompt configurations
         all_prompt_configs = self.generate_all_prompt_configs()
         logging.info("\033[93mTotal prompt configurations: %d\033[0m", len(all_prompt_configs))
         
-        output_file = os.path.join(os.path.dirname(__file__), "..", "prompt_results_hybrid.json")
+        within_file = os.path.join(os.path.dirname(__file__), "..", "prompt_within.jsonl")
+        between_file = os.path.join(os.path.dirname(__file__), "..", "prompt_between.jsonl")
         
-        # Open file for immediate streaming writes
-        with open(output_file, 'w') as f_out:
-            # 3A. Within-Subject: stream results immediately
-            logging.info("\033[93mStarting within-subject test...\033[0m")
-            for (image_path, question) in within_subject_pairs:
+        skipped_count = 0
+        
+        # Stream writing within-subject results
+        logging.info("\033[93mStarting within-subject test...\033[0m")
+        with open(within_file, 'w') as f_within:
+            for (image_path, question, question_id) in within_subject_examples:
                 for config in all_prompt_configs:
+                    config["user_query"] = question  # Set the query in the config
                     self.prompt_engine.set_prompt_params(config)
                     with self.subTest(image=image_path, query=question, config=config):
                         self.vqa_counter += 1
-                        logging.info(f"vqa #: {self.vqa_counter}")
-                        response_tuple = self.prompt_engine.get_response(question, image_path=image_path)
-                        formatted_output = format_response(response_tuple)
-                        # Only write if we got a valid response.
+                        # Remove metadata parameter and just pass image_path
+                        response_tuple = self.prompt_engine.get_response(
+                            question, 
+                            image_path=image_path
+                        )
+                        
+                        # Add question_id to the response tuple after the call returns
+                        response_with_id = response_tuple + (question_id,)
+                        formatted_output = format_response(response_with_id)
+                        
                         if formatted_output:
-                            f_out.write(formatted_output + "\n")
-                            f_out.flush()
+                            output_json = json.loads(formatted_output)
+                            if output_json.get("token_count", 0) == 512:
+                                logging.warning("\033[91mSkipping response with token_count 512 (within-subject).\033[0m")
+                                continue
+                            f_within.write(formatted_output + "\n")
                         else:
-                            logging.warning("\033[93mSkipping invalid response (within-subject).\033[0m")
-            
-            # 3B. Between-Subject: stream each result immediately
-            logging.info("\033[93mStarting between-subject test...\033[0m")
-            for (image_path, question) in between_subject_pairs:
+                            logging.warning("Skipping invalid response (within-subject).")
+        
+        # Stream writing between-subject results
+        logging.info("\033[93mStarting between-subject test...\033[0m")
+        with open(between_file, 'w') as f_between:
+            for (image_path, question, question_id) in between_subject_examples:
                 params = self.random_params(question)
                 self.prompt_engine.set_prompt_params(params)
                 with self.subTest(image=image_path, query=question, config=params):
-                    response_tuple = self.prompt_engine.get_response(question, image_path=image_path)
-                    formatted_output = format_response(response_tuple)
+                    # Remove metadata parameter and just pass image_path
+                    response_tuple = self.prompt_engine.get_response(
+                        question, 
+                        image_path=image_path
+                    )
+                    
+                    # Add question_id to the response tuple after the call returns
+                    response_with_id = response_tuple + (question_id,)
+                    formatted_output = format_response(response_with_id)
+                    
                     if formatted_output:
-                        f_out.write(formatted_output + "\n")
-                        f_out.flush()
+                        output_json = json.loads(formatted_output)
+                        if output_json.get("token_count", 0) == 512:
+                            logging.warning("\033[91mSkipping response with token_count 512 (between-subject).\033[0m")
+                            continue
+                        f_between.write(formatted_output + "\n")
                     else:
                         logging.warning("\033[93mSkipping invalid response (between-subject).\033[0m")
-        logging.info(f"Hybrid test outputs saved to {output_file}")
+                        skipped_count += 1
+                        
+        logging.info(f"Skipped {skipped_count} invalid responses during between-subject test.")
+        logging.info(f"Streamed within-subject results to: {within_file}")
+        logging.info(f"Streamed between-subject results to: {between_file}")
 
 
 if __name__ == '__main__':
